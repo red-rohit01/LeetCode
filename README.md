@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/red-rohit01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/red-rohit01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Greedy
+|  |
+| ------- |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 <!---LeetCode Topics End-->
