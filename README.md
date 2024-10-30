@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/red-rohit01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/red-rohit01/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/red-rohit01/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2586-longest-square-streak-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/red-rohit01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/red-rohit01/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/red-rohit01/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2586-longest-square-streak-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/red-rohit01/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 ## Hash Table
 |  |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/red-rohit01/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
