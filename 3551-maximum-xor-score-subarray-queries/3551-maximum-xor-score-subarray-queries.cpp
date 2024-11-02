@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // Since, Similar to LCS (Least Common Subarray)
+    // Since, Similar to LCS (Largest Common Subarray)
     vector<int> maximumSubarrayXor(vector<int>& nums, vector<vector<int>>& queries) {
         int n=nums.size();
         int m=queries.size();
