@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/red-rohit01/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2580-circular-sentence](https://github.com/red-rohit01/LeetCode/tree/master/2580-circular-sentence) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/red-rohit01/LeetCode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Tree
