@@ -80,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/red-rohit01/LeetCode/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3394-minimum-array-end](https://github.com/red-rohit01/LeetCode/tree/master/3394-minimum-array-end) |
 <!---LeetCode Topics End-->
