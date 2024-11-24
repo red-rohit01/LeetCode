@@ -1,5 +1,8 @@
 class Solution {
 public:
+    // The idea is that it's always possible to transmit the negative sign anywhere in the entire matrix. 
+    // So, if the cnt of negative values is multiple of 2. Then, the entire matrix can be made positive.
+    // else, the lowest value needs to be subtracted.
     long long maxMatrixSum(vector<vector<int>>& matrix) {
         int n=matrix.size();
         long long sum=0;
