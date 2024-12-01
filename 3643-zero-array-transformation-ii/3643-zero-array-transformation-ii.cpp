@@ -1,5 +1,9 @@
 class Solution {
 public:
+    // The idea is to use Binary Search as any value less than required 'k' is not supportive and all the values onward 'k' 
+    // can be our ans.
+    // And check for any particular value 'k' required O(N) traversal. 
+    // so, overall TC: O(Nlog(N))
     bool check(vector<int>nums,vector<vector<int>>&queries,int mid)
     {
         int len=nums.size();
