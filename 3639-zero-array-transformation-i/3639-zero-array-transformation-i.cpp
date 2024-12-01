@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // The idea is to use difference array method and then decrease values wherever required i.e., in any subset
     bool isZeroArray(vector<int>& nums, vector<vector<int>>& queries) {
         int len=nums.size();
         vector<int>action(len+1);
