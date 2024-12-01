@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/red-rohit01/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3639-zero-array-transformation-i](https://github.com/red-rohit01/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/red-rohit01/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/red-rohit01/LeetCode/tree/master/2716-prime-subtraction-operation) |
+| [3643-zero-array-transformation-ii](https://github.com/red-rohit01/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/red-rohit01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3639-zero-array-transformation-i](https://github.com/red-rohit01/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3643-zero-array-transformation-ii](https://github.com/red-rohit01/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
