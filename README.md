@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/red-rohit01/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0787-sliding-puzzle](https://github.com/red-rohit01/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/red-rohit01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/red-rohit01/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/red-rohit01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/red-rohit01/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
