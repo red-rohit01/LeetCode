@@ -3,6 +3,8 @@ public:
     // For example, even though 1/2 and 10/20 has the same ratio. However, 1/2's delta is equal to (1+1)/(2+1)-1/2, 
     // which is much greater than (10+1)/(20+1)-10/20.Therefore, we always greedily select the one with the greatest delta.
     // We can acheive this using a max heap. In C++, we can use the priority queue.
+    // If you keep adding students, what happens to the change in pass ratio? The more students you add to a class, 
+    // the smaller the change in pass ratio becomes.
     struct cmp{
         bool operator()(pair<int,int> a, pair<int,int> b){
             double ad = (a.first+1)/(double)(a.second+1) - (a.first)/(double)a.second;
