@@ -45,14 +45,13 @@ public:
 
                 if(prev==first)
                 {
-                    if(second==-1) return ans;
-
-                    else
+                    if(second==-1) return ans;  // It denotes there is only one suitable element which is first but we can't 
+                    else                        // put it because of the repeatLimit
                     {
                         flag=true;
-                        ans+=(char)('a'+second);
-                        freq[second]--;
-                    }
+                        ans+=(char)('a'+second);   // Since our goal is to have lexicographically largest so just adding '1' 
+                        freq[second]--;  // element to break the continuous repeatLimit and in next iteration, I'll put first
+                    }                   // as it'll add to larger lexicograph
                 }
                 else 
                 {
