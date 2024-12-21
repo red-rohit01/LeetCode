@@ -49,29 +49,33 @@ public:
 
         int ans=1;
         vector<int>divisors;
-        int temp=total;
-        for(int i=2;(i*i)<=temp;++i)
-        {
-            if((temp%i)==0)
-            {
-                while((temp%i)==0)
-                {
-                    temp/=i;
-                    if(temp==0) break;
-                }
-                divisors.push_back(i);
-                if((total/i)!=i) divisors.push_back(total/i);
-            }
-        }
-        if(temp) divisors.push_back(temp);
+        // int temp=total;
+        // for(int i=2;(i*i)<=temp;++i)
+        // {
+        //     if((temp%i)==0)
+        //     {
+        //         while((temp%i)==0)
+        //         {
+        //             temp/=i;
+        //             if(temp==0) break;
+        //         }
+        //         divisors.push_back(i);
+        //         if((total/i)!=i) divisors.push_back(total/i);
+        //     }
+        // }
+        // if(temp) divisors.push_back(temp);
 
+        for(int i=2;i<total;++i)
+        {
+            if((total%i)==0) divisors.push_back(i);
+        }
 
         for(auto &k:divisors)
         {
             bool flag=true;
             for(int i=0;i<n;++i)
             {
-                if(nums[i]>k) 
+                if(nums[i]>k) // If any of the value is greater than the required 'k' value then it's not possible 
                 {
                     flag=false;
                     break;
