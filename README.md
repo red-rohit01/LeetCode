@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3058-maximum-number-of-k-divisible-components](https://github.com/red-rohit01/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/red-rohit01/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/red-rohit01/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/red-rohit01/LeetCode/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Depth-First Search
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3058-maximum-number-of-k-divisible-components](https://github.com/red-rohit01/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/red-rohit01/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/red-rohit01/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/red-rohit01/LeetCode/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 ## Two Pointers
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/red-rohit01/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/red-rohit01/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/red-rohit01/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
 |  |
 | ------- |
