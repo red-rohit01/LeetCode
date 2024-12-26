@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/red-rohit01/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0494-target-sum](https://github.com/red-rohit01/LeetCode/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/red-rohit01/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/red-rohit01/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/red-rohit01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/red-rohit01/LeetCode/tree/master/0494-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/red-rohit01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/red-rohit01/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/red-rohit01/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/red-rohit01/LeetCode/tree/master/0494-target-sum) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Bitmask
 |  |
