@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-find-maximum-removals-from-source-string](https://github.com/red-rohit01/LeetCode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3551-maximum-xor-score-subarray-queries](https://github.com/red-rohit01/LeetCode/tree/master/3551-maximum-xor-score-subarray-queries) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/red-rohit01/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/red-rohit01/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3654-minimum-array-sum](https://github.com/red-rohit01/LeetCode/tree/master/3654-minimum-array-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/red-rohit01/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/red-rohit01/LeetCode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/red-rohit01/LeetCode/tree/master/3451-string-compression-iii) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/red-rohit01/LeetCode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Tree
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2531-create-components-with-same-value](https://github.com/red-rohit01/LeetCode/tree/master/2531-create-components-with-same-value) |
 | [2716-prime-subtraction-operation](https://github.com/red-rohit01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2300-construct-string-with-repeat-limit](https://github.com/red-rohit01/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/red-rohit01/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Tree
 |  |
 | ------- |
