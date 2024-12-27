@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/red-rohit01/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/red-rohit01/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/red-rohit01/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3427-special-array-ii) |
 | [3460-count-the-number-of-inversions](https://github.com/red-rohit01/LeetCode/tree/master/3460-count-the-number-of-inversions) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/red-rohit01/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3460-count-the-number-of-inversions](https://github.com/red-rohit01/LeetCode/tree/master/3460-count-the-number-of-inversions) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/red-rohit01/LeetCode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3551-maximum-xor-score-subarray-queries](https://github.com/red-rohit01/LeetCode/tree/master/3551-maximum-xor-score-subarray-queries) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/red-rohit01/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/red-rohit01/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/red-rohit01/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3427-special-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/red-rohit01/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/red-rohit01/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/red-rohit01/LeetCode/tree/master/3394-minimum-array-end) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/red-rohit01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -348,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/red-rohit01/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 ## Merge Sort
 |  |
 | ------- |
