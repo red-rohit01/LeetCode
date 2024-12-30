@@ -38,8 +38,11 @@ public:
 
     // TC: O(n*(mxm/64))  why '64'? because compiler performs the bit operations in chunk of '32' or '64'. This minor optimization will work here.
         bitset<100001> dp; dp[0] = true;
-        sort(rewardValues.begin(), rewardValues.end());
-        for(auto val: rewardValues) 
+        //sort(rewardValues.begin(), rewardValues.end());
+
+        set<int>st(rewardValues.begin(), rewardValues.end());
+        vector<int> temp(st.begin(),st.end());       // Considering only unique values for further optimization
+        for(auto val: temp) 
         {
             int shift = 1e5 - (val - 1);
             dp|=(dp<< shift >> shift << val);   // can be written as this too.  dp |= (((dp << shift )>> shift) << val);
