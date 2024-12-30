@@ -1,56 +1,51 @@
 class Solution {
 public:
-    // int helper(int i,int &n,int curr,vector<int>&rewardValues,auto &dp)
-    // {
-    //     if(curr>(5*1e4))
-    //     {
-    //         return 0;
-    //     }
+    // Normal Take/ Not Take approach will give us TLE as the maximum reward possible is 'maxm' sum available in the vector. 
+    // and Thus the Time Complexity would ne O(n* maxm) == O(25*1e8)
 
-    //     if(i==n)
-    //     {
-    //         return 0;
-    //     }
-
-    //     if(dp[i].count(curr)) return dp[i][curr];
-
-    //     int exclude=helper(i+1,n,curr,rewardValues,dp);
-
-    //     int include=0;
-    //     if(rewardValues[i]>curr) include=rewardValues[i]+helper(i+1,n,curr+rewardValues[i],rewardValues,dp);
-
-    //     return dp[i][curr]=max(include,exclude);
-    // }
     int maxTotalReward(vector<int>& rewardValues) {
-        // set<int>st(rewardValues.begin(),rewardValues.end());
-        // vector<int>temp(st.begin(),st.end());
-        // int n=temp.size();
-        // // int ans=0;
-        // int curr=0;
         // vector<unordered_map<int,int>>dp(n,unordered_map<int,int>());
 
-        // return helper(0,n,curr,temp,dp);
-        
+        // sort(rewardValues.begin(), rewardValues.end());
+        // int n=rewardValues.size();
+        // bool dp[50000]={};
+        // dp[0]=true;
+        // int maximum_reward=0;
+        // for (int i=0;i<n;++i) 
+        // {
+        //     if (i==0 || rewardValues[i-1]!=rewardValues[i]) 
+        //     {
+        //         int limit=min(rewardValues[i], rewardValues[n-1]-rewardValues[i]);
+        //         for (int j=0;j<limit;++j) 
+        //         {
+        //             if (dp[j]) 
+        //             {
+        //                 dp[j+rewardValues[i]] = true;
+        //                 maximum_reward = max(maximum_reward, j + rewardValues[i]);
+        //             }
+        //         }
+        //     }
+        // }
+        // return (maximum_reward+rewardValues[n-1]);
+
+        //Is line Ka Simple yehi mtlb ha
+    // dp |= (dp << shift >> shift << val);
+    // phlay left Shift krke jo bhi uss number se brde number ha unko hata dai kyuki Sawal ke anushar hum uss number se brda number yeh uske barabar ka number nhi leskte
+    // or wapis se right shift krke uske position purane fesbible bits ko wapis unki jagah pr le aye or fir val se left shift krke added contrubition ke bit ko set krdia and usko current ke sath
+    // OR krke sare contribution ko le liya
+
+    // App iski Jagah pe bitset<> Mask use krskte bas Mask ko current ke sath curr |= (Mask& new) << val
+
+    // TC: O(n*(mxm/64))  why '64'? because compiler performs the bit operations in chunk of '32' or '64'. This minor optimization will work here.
+        bitset<100001> dp; dp[0] = true;
         sort(rewardValues.begin(), rewardValues.end());
-        int n=rewardValues.size();
-        bool dp[50000]={};
-        dp[0]=true;
-        int maximum_reward=0;
-        for (int i=0;i<n;++i) 
+        for(auto val: rewardValues) 
         {
-            if (i==0 || rewardValues[i-1]!=rewardValues[i]) 
-            {
-                int limit=min(rewardValues[i], rewardValues[n-1]-rewardValues[i]);
-                for (int j=0;j<limit;++j) 
-                {
-                    if (dp[j]) 
-                    {
-                        dp[j+rewardValues[i]] = true;
-                        maximum_reward = max(maximum_reward, j + rewardValues[i]);
-                    }
-                }
-            }
+            int shift = 1e5 - (val - 1);
+            dp|=(dp<< shift >> shift << val);   // can be written as this too.  dp |= (((dp << shift )>> shift) << val);
         }
-        return (maximum_reward+rewardValues[n - 1]);
+        int res=1e5;
+        while(!dp[res]) --res;
+        return res;
     }
 };
