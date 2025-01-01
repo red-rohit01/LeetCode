@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/red-rohit01/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/red-rohit01/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/red-rohit01/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/red-rohit01/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/3112-count-valid-paths-in-a-tree) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/red-rohit01/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/red-rohit01/LeetCode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/red-rohit01/LeetCode/tree/master/3443-maximum-total-reward-using-operations-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/red-rohit01/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/red-rohit01/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/3112-count-valid-paths-in-a-tree) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/red-rohit01/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/red-rohit01/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/red-rohit01/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2531-create-components-with-same-value](https://github.com/red-rohit01/LeetCode/tree/master/2531-create-components-with-same-value) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/red-rohit01/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/3112-count-valid-paths-in-a-tree) |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/red-rohit01/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/red-rohit01/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/red-rohit01/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/red-rohit01/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/red-rohit01/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/red-rohit01/LeetCode/tree/master/3394-minimum-array-end) |
