@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/red-rohit01/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/red-rohit01/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/red-rohit01/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/red-rohit01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/red-rohit01/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3427-special-array-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/red-rohit01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/red-rohit01/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/red-rohit01/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/red-rohit01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/red-rohit01/LeetCode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3451-string-compression-iii](https://github.com/red-rohit01/LeetCode/tree/master/3451-string-compression-iii) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/red-rohit01/LeetCode/tree/master/3487-find-maximum-removals-from-source-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/red-rohit01/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/red-rohit01/LeetCode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/red-rohit01/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/red-rohit01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -380,10 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/red-rohit01/LeetCode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/red-rohit01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/red-rohit01/LeetCode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/red-rohit01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -434,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/red-rohit01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
