@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // The idea is to equate on both sides by (p/q)==(r/s)
+    // The idea is to equate on both sides by (p/q)==(s/r)
     long long numberOfSubsequences(vector<int>& nums) {
         int n=nums.size();
         long long ans=0;
