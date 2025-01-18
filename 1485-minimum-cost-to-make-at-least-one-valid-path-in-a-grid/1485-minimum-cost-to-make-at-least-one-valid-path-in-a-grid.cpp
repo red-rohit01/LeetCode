@@ -1,10 +1,10 @@
 class Solution {
 public:
+    // The idea is simple when we are required to move in all the four directions, Treat the questions as 'Graph' and not as 'DP'
     int minCost(vector<vector<int>>& grid) {
         int m=grid.size();
         int n=grid[0].size();
         int total=m*n;
-        // cout<<total<<" ";
 
         vector<pair<int,int>>adj[total];
         vector<int>dr={-1,0,1,0,-1};
