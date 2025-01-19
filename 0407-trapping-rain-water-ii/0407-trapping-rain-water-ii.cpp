@@ -18,10 +18,7 @@ public:
     // it is 0. The block at (1, 2) will spill the water via (2, 2) and won't be able to hold any water, so the block at
     // (1, 1) won't be able to hold any water as well no matter what.
     
-    // static bool comp(const vector<int>&a,const vector<int>&b)
-    // {
-    //     return (a[0]>=b[0]);
-    // }
+    // The idea is to use min_height from any of the boundary 
     int trapRainWater(vector<vector<int>>& heightMap) {
         int n=heightMap.size();
         int m=heightMap[0].size();
@@ -31,12 +28,7 @@ public:
         vector<int>dr={-1,0,1,0,-1};
         
         // <height, row, col>
-        // priority_queue<vector<int>,vector<vector<int>>, comp>pq; // This declaration is giving compilation error
-
-        auto comp = [&](const vector<int>& a, const vector<int>& b) { return a[0] >= b[0]; };
-        
-        priority_queue<vector<int>, vector<vector<int>>, decltype(comp)> pq(comp);
-        
+        priority_queue<vector<int>,vector<vector<int>>, greater<vector<int>>>pq; 
 
         // Adding all the boundary cells from Top and Bottom
         for(int j=0;j<m;++j)
