@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/red-rohit01/LeetCode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/red-rohit01/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/red-rohit01/LeetCode/tree/master/3189-find-champion-ii) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/red-rohit01/LeetCode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/red-rohit01/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Eulerian Circuit
