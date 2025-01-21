@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/red-rohit01/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/red-rohit01/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/red-rohit01/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/red-rohit01/LeetCode/tree/master/2145-grid-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/red-rohit01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/red-rohit01/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/red-rohit01/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/red-rohit01/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/red-rohit01/LeetCode/tree/master/2145-grid-game) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/red-rohit01/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/red-rohit01/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/red-rohit01/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/red-rohit01/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/red-rohit01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/red-rohit01/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/red-rohit01/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/red-rohit01/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/red-rohit01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
