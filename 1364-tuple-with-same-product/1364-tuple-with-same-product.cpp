@@ -1,5 +1,8 @@
 class Solution {
 public:
+    // The idea is that any of quadruples can be arranged in 8 ways and for any particular product--> no. of pairs that can be formed
+    // is nC2 ==> n*(n-1)/2
+    // And all of these calculations are possible with the given constraints.
     int tupleSameProduct(vector<int>& nums) {
         int n=nums.size();
         int ans=0;
