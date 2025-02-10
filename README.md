@@ -580,4 +580,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-average-selling-price](https://github.com/red-rohit01/LeetCode/tree/master/1390-average-selling-price) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/red-rohit01/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
