@@ -576,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/red-rohit01/LeetCode/tree/master/2434-design-a-number-container-system) |
+## Database
+|  |
+| ------- |
+| [1390-average-selling-price](https://github.com/red-rohit01/LeetCode/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
