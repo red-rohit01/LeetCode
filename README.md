@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/red-rohit01/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2232-adding-spaces-to-a-string](https://github.com/red-rohit01/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/red-rohit01/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/red-rohit01/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/red-rohit01/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/red-rohit01/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/red-rohit01/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/red-rohit01/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/red-rohit01/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/red-rohit01/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2509-minimize-xor](https://github.com/red-rohit01/LeetCode/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/red-rohit01/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/red-rohit01/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/red-rohit01/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/red-rohit01/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/red-rohit01/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/red-rohit01/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/red-rohit01/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
