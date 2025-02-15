@@ -9,6 +9,7 @@
  */
 class Codec {
 public:
+    // Better LC would have handled these things with an array instead of using a string
     void serialize_helper(TreeNode* root, string &ans)
     {
         if(root==nullptr)
@@ -62,7 +63,7 @@ public:
     TreeNode *deserialize(string data) {
         // Your code here
         int ind=0;
-        cout<<data<<"\n";
+        //cout<<data<<"\n";
         return deserialize_helper(data,ind);
     }
 };
