@@ -3,6 +3,7 @@ public:
     // Generate all of them using Backtracking
     // TC: O(4^n), 'n' is the length of the input string. In worst case, each digit can represent 4 letters, so there will be 
     // 4 recursive calls for each digit
+    // And It takes O(N) time to copy each of the solution too. so, TC: O(N*4^N) 
     vector<string>mp={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
     void helper(string digits, int ind, vector<string>&ans,string &curr)
     {
