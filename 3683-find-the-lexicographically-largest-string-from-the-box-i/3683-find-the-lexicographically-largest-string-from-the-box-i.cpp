@@ -1,27 +1,34 @@
 class Solution {
 public:
-    // Idea is get the maxm char and try to get the maxm substring
     string answerString(string word, int numFriends) {
-        if(numFriends==1) return word;
-        int n=word.size();
-        char c=word[0];
-        for(auto &x:word)
-        {
-            c=max(c,x);
-        }
+        
+        //if we have only one friend then no need to split
+        if(numFriends == 1) return word;
 
-        string ans="";
-        ans+=c;
-        for(int i=0;i<n;++i)
-        {
-            if(word[i]==c)
-            {
-                int rem_len=(n-i);
-                int curr=numFriends-i;   // Here 'i' number of prev characters can be assigned to each friend
+        int n = word.size(); 
 
-                if(curr>=1) rem_len-=(curr-1);
-                ans=max(ans,word.substr(i,rem_len));
-            }
+        int i=0; // start index
+
+        int sz=n-(numFriends-1); // So that we have a window
+        // only upto that particular index (j).
+        // Say we have "dbca" and we start from 0 with a goal to split in 2 friends i.e 1 split, 
+        // then the j will be uptil 3. that is, in one go if we take 
+        // three characters together ("dbc") then a single character will be left.
+        // and it would be satisfying the constraint of numFriends splits - "dbc" & "a"
+        // else it won't be possible
+        // as the loop moves, the window moves
+        // "dbc", "bca", "ca", "a".
+        
+        string ans=""; // empty string to store the final answer
+
+        while(i<=n) // to generate all the split words and get the max of them
+        {
+            string temp = "";
+
+            for(int k=i;k<min(n,i+sz);++k) temp+=word[k];
+
+            ans=max(ans,temp); 
+            ++i;
         }
         return ans;
     }
