@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/red-rohit01/LeetCode/tree/master/0952-word-subsets) |
 | [1022-unique-paths-iii](https://github.com/red-rohit01/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/red-rohit01/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/red-rohit01/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1063-best-sightseeing-pair](https://github.com/red-rohit01/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/red-rohit01/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/red-rohit01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/red-rohit01/LeetCode/tree/master/2531-create-components-with-same-value) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/red-rohit01/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/red-rohit01/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/red-rohit01/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/red-rohit01/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/red-rohit01/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/red-rohit01/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/red-rohit01/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/red-rohit01/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/red-rohit01/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/red-rohit01/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/red-rohit01/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2549-next-greater-element-iv](https://github.com/red-rohit01/LeetCode/tree/master/2549-next-greater-element-iv) |
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/red-rohit01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/red-rohit01/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -679,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
