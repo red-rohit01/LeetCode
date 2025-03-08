@@ -8,6 +8,7 @@ public:
             
             return 1e9;
         }
+        if(curr==amount) return 0;
 
         if(dp[i][curr]!=-1) return dp[i][curr];
 
