@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/0045-jump-game-ii) |
+| [0072-edit-distance](https://github.com/red-rohit01/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/red-rohit01/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/red-rohit01/LeetCode/tree/master/0322-coin-change) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/red-rohit01/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/red-rohit01/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/red-rohit01/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
