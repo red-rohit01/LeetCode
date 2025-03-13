@@ -22,11 +22,11 @@ public:
         bool flag=false;
         if(p[j]=='*')
         {
-            for(int l=i;l<n;++l)
-            {
-                flag|=helper(l,j+1,n,m,s,p,dp);             // Replacing '*' with empty sequence
-                flag|=helper(l+1,j+1,n,m,s,p,dp); 
-            }
+            // for(int l=i;l<n;++l)                // If we try to use this 'for' loop then in helper function replace 'i' with 'l'
+            // {
+                flag|=helper(i,j+1,n,m,s,p,dp);             // Replacing '*' with empty sequence
+                flag|=helper(i+1,j,n,m,s,p,dp); 
+            //}
         }
         return dp[i][j]=flag;
     }
