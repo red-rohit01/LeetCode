@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3654-minimum-array-sum](https://github.com/red-rohit01/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/red-rohit01/LeetCode/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
+| [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/red-rohit01/LeetCode/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3795-zero-array-transformation-iv](https://github.com/red-rohit01/LeetCode/tree/master/3795-zero-array-transformation-iv) |
 ## Matrix
 |  |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/red-rohit01/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/red-rohit01/LeetCode/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Tree
 |  |
 | ------- |
