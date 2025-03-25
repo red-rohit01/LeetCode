@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/red-rohit01/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3654-minimum-array-sum](https://github.com/red-rohit01/LeetCode/tree/master/3654-minimum-array-sum) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/red-rohit01/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3699-count-special-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/3699-count-special-subsequences) |
 | [3795-zero-array-transformation-iv](https://github.com/red-rohit01/LeetCode/tree/master/3795-zero-array-transformation-iv) |
 ## Dynamic Programming
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/red-rohit01/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/red-rohit01/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/red-rohit01/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/red-rohit01/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
 | ------- |
