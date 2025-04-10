@@ -7,9 +7,9 @@ public:
 
         if(n<m) return 0;
 
-        if(n==m) return (num>=s?1:0);
+        if(n==m) return (num>=s?1:0);      // If my 'num' is 764 and I need to use suffix as '234' Then there is only one way.
 
-        string s_=num.substr(n-m,m);
+        string s_=num.substr(n-m,m);      // Last 'm' length suffix if num=="86794" and m==2. Then, s_="94"
 
         long long ans=0;
         int l=n-m;
@@ -27,7 +27,7 @@ public:
             //for num[i] we need to check the rest of digits to ensure all combinations do not exceed the num
         }
 
-        if(s_>=s) ans++;
+        if(s_>=s) ans++;    // Since, The above for loop was check only for remaining prefix. That's why this extra check for equal length as 's'
 
         return ans;
     }
