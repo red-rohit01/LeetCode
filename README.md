@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/red-rohit01/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/red-rohit01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/red-rohit01/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/red-rohit01/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/red-rohit01/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3227-find-missing-and-repeated-values](https://github.com/red-rohit01/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/red-rohit01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2531-create-components-with-same-value](https://github.com/red-rohit01/LeetCode/tree/master/2531-create-components-with-same-value) |
+| [2998-count-symmetric-integers](https://github.com/red-rohit01/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/red-rohit01/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3699-count-special-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/3699-count-special-subsequences) |
 ## Backtracking
