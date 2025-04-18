@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/red-rohit01/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/0045-jump-game-ii) |
+| [0075-sort-colors](https://github.com/red-rohit01/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/red-rohit01/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/red-rohit01/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/red-rohit01/LeetCode/tree/master/0139-word-break) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/red-rohit01/LeetCode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/red-rohit01/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/red-rohit01/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/red-rohit01/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/red-rohit01/LeetCode/tree/master/0075-sort-colors) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/red-rohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/red-rohit01/LeetCode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/red-rohit01/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
