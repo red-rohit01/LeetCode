@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/red-rohit01/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/red-rohit01/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/red-rohit01/LeetCode/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/red-rohit01/LeetCode/tree/master/0221-maximal-square) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/red-rohit01/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/red-rohit01/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/red-rohit01/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/red-rohit01/LeetCode/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/red-rohit01/LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/red-rohit01/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/red-rohit01/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/red-rohit01/LeetCode/tree/master/0337-house-robber-iii) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/red-rohit01/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/red-rohit01/LeetCode/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/red-rohit01/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/red-rohit01/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/red-rohit01/LeetCode/tree/master/0854-making-a-large-island) |
