@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // Making use of 2-D prefix sum
     int maximalSquare(vector<vector<char>>& matrix) {
         int m=matrix.size();
         int n=matrix[0].size();
@@ -21,10 +22,10 @@ public:
                 if(matrix[i-1][j-1]=='0') continue;
 
                 int mn=min(i,j);
-                for(int k=1;k<=mn;++k)
+                for(int len=1;len<=mn;++len)
                 {
-                    int curr=(pre[i][j]-pre[i-k][j]-pre[i][j-k]+pre[i-k][j-k]);
-                    if(curr==(k*k))
+                    int curr=(pre[i][j]-pre[i-len][j]-pre[i][j-len]+pre[i-len][j-len]);
+                    if(curr==(len*len))
                     {
                         ans=max(ans,curr);
                     }
