@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // The idea is greedy based. For each of the frequency and val limit is (val+1). so, just found the groups and then multiply with 
+    // the limit
     int numRabbits(vector<int>& answers) {
         int n=answers.size();
         map<int,int>freq;
