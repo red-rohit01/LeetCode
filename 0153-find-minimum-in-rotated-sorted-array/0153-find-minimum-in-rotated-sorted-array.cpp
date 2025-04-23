@@ -2,21 +2,50 @@ class Solution {
 public:
     int findMin(vector<int>& nums) {
         int n=nums.size();
-        int l=0,h=n-1;
-        int ans=nums[0];
-        while(l<=h)
+        int low=0,high=n-1;
+        int ans=INT_MAX;
+        int index=-1;           // The number of times nums has been rotated equal the index value of the lowest element in '0' based
+        while(low<=high) 
         {
-            int mid=l+(h-l)/2;
-            ans=min(ans,nums[mid]);
-
-            if(nums[l]<nums[h])             // It means 'nums' already in sorted order
+            int mid=(low+high)/2;
+            //search space is already sorted
+            //then nums[low] will always be
+            //the minimum in that search space:
+            if(nums[low]<=nums[high]) 
             {
-                ans=min(ans,nums[l]);
-                return ans;
+                if(nums[low]<ans) 
+                {
+                    index=low;
+                    ans=nums[low];
+                }
+                break;
             }
-            if(nums[mid]>nums[h]) l=mid+1;        // Right half is not sorted...so mnm must be on right side
-            else h=mid-1;
-            
+
+            //if left part is sorted:
+            if(nums[low]<=nums[mid]) 
+            {
+                // keep the minimum:
+                if(nums[low]<ans) 
+                {
+                    index=low;
+                    ans=nums[low];
+                }
+
+                // Eliminate left half:
+                low=mid+1;
+            }
+            else //if right part is sorted:
+            {
+                // keep the minimum:
+                if(nums[mid]<ans) 
+                {
+                    index=mid;
+                    ans=nums[mid];
+                }
+
+                // Eliminate right half:
+                high=mid-1;
+            }
         }
         return ans;
     }
