@@ -2,27 +2,21 @@ class Solution {
 public:
     long long countSubarrays(vector<int>& nums, int k) {
         int n=nums.size();
-        int mx=nums[0];
-        for(int i=0;i<n;++i) mx=max(mx,nums[i]);
-
-        vector<int>indc;
-        for(int i=0;i<n;++i)
-        {
-            if(nums[i]==mx) indc.push_back(i);
-        }
-
-        int len=indc.size();
-        if(len<k) return 0;
-
+        int maxe=*max_element(nums.begin(), nums.end());
+        
         long long ans=0;
-        for(int i=0;i<=(len-k);++i)          //Traverse the 'indc' vector
+        int count=0; // keep track of count of maxElement in [i,j]
+        int i=0,j=0;
+        while(j<n)
         {
-            int prev=indc[i];
-            if(i>0) prev-=(indc[i-1]+1);     // subtracting the earlier contribution so that we don't count duplicates
-            prev++;
-            int next=(n-indc[i+k-1]);
-
-            ans+=(prev*1LL * 1LL*next); // Any of the subarray can start from '0'th index to this i'th index value and can end on any of 'i+k+1' th and further values. so, just multiplying the cnt.
+            count+=(nums[j]==maxe);
+            while(i<=j && count>=k)
+            {
+                ans+=(n-j);
+                count-=(nums[i]==maxe); // shrink window
+                i++;
+            }
+            j++;
         }
         return ans;
     }
