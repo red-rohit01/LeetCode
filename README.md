@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/red-rohit01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/red-rohit01/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/red-rohit01/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1962-single-threaded-cpu](https://github.com/red-rohit01/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1972-rotating-the-box](https://github.com/red-rohit01/LeetCode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/red-rohit01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/red-rohit01/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/red-rohit01/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/red-rohit01/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/red-rohit01/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1962-single-threaded-cpu](https://github.com/red-rohit01/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/red-rohit01/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/red-rohit01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/red-rohit01/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/red-rohit01/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/red-rohit01/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1962-single-threaded-cpu](https://github.com/red-rohit01/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2300-construct-string-with-repeat-limit](https://github.com/red-rohit01/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/red-rohit01/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/red-rohit01/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
