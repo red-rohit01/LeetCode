@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/red-rohit01/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/red-rohit01/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/red-rohit01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/red-rohit01/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/red-rohit01/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/red-rohit01/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/red-rohit01/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/red-rohit01/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/red-rohit01/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/red-rohit01/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/red-rohit01/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/red-rohit01/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/red-rohit01/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2047-find-a-peak-element-ii](https://github.com/red-rohit01/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/red-rohit01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/red-rohit01/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/red-rohit01/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/red-rohit01/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/red-rohit01/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/red-rohit01/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/red-rohit01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/red-rohit01/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/red-rohit01/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2549-next-greater-element-iv](https://github.com/red-rohit01/LeetCode/tree/master/2549-next-greater-element-iv) |
 | [2554-minimum-total-distance-traveled](https://github.com/red-rohit01/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/red-rohit01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/red-rohit01/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/red-rohit01/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
@@ -719,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/red-rohit01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/red-rohit01/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/red-rohit01/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Simulation
