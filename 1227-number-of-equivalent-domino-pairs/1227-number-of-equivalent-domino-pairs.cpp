@@ -11,11 +11,9 @@ public:
         {
             vector<int>curr=dominoes[i];
             int cnt=freq[curr];
-
             ans+=(cnt-1);
 
-            vector<int>other={curr[1],curr[0]};
-            if(curr!=other && freq.find(other)!=freq.end()) ans+=freq[other];
+            if(curr[0]!=curr[1] && freq.find({curr[1],curr[0]})!=freq.end()) ans+=freq[{curr[1],curr[0]}];
 
             if(--freq[curr]==0) freq.erase(curr);
         }
