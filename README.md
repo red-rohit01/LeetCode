@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3587-maximum-points-tourist-can-earn](https://github.com/red-rohit01/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/red-rohit01/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/red-rohit01/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/red-rohit01/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3654-minimum-array-sum](https://github.com/red-rohit01/LeetCode/tree/master/3654-minimum-array-sum) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/red-rohit01/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/red-rohit01/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/red-rohit01/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/red-rohit01/LeetCode/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Tree
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/red-rohit01/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/red-rohit01/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3699-count-special-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/3699-count-special-subsequences) |
 ## Number Theory
 |  |
@@ -1000,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/red-rohit01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/red-rohit01/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/red-rohit01/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/red-rohit01/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Memoization
 |  |
 | ------- |
