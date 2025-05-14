@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3587-maximum-points-tourist-can-earn](https://github.com/red-rohit01/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/red-rohit01/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/red-rohit01/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/red-rohit01/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/red-rohit01/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/red-rohit01/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/red-rohit01/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/red-rohit01/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3699-count-special-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/3699-count-special-subsequences) |
 ## Binary Search
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/red-rohit01/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/red-rohit01/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/red-rohit01/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/red-rohit01/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/red-rohit01/LeetCode/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/red-rohit01/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/red-rohit01/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/red-rohit01/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3699-count-special-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/3699-count-special-subsequences) |
 ## Number Theory
@@ -902,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/red-rohit01/LeetCode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/red-rohit01/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/red-rohit01/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/red-rohit01/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Binary Tree
 |  |
 | ------- |
