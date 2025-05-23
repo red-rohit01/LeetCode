@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/red-rohit01/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2681-put-marbles-in-bags](https://github.com/red-rohit01/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/red-rohit01/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/red-rohit01/LeetCode/tree/master/2690-house-robber-iv) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/red-rohit01/LeetCode/tree/master/2509-minimize-xor) |
 | [2592-minimum-total-cost-to-make-arrays-unequal](https://github.com/red-rohit01/LeetCode/tree/master/2592-minimum-total-cost-to-make-arrays-unequal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2681-put-marbles-in-bags](https://github.com/red-rohit01/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/red-rohit01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/red-rohit01/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/red-rohit01/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2681-put-marbles-in-bags](https://github.com/red-rohit01/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/red-rohit01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2531-create-components-with-same-value](https://github.com/red-rohit01/LeetCode/tree/master/2531-create-components-with-same-value) |
 | [2610-closest-prime-numbers-in-range](https://github.com/red-rohit01/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/red-rohit01/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2716-prime-subtraction-operation](https://github.com/red-rohit01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/red-rohit01/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/red-rohit01/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -692,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/red-rohit01/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/red-rohit01/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+| [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2716-prime-subtraction-operation](https://github.com/red-rohit01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/red-rohit01/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/3112-count-valid-paths-in-a-tree) |
