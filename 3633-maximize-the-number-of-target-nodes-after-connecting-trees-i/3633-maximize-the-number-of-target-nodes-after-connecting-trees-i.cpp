@@ -2,10 +2,8 @@ class Solution {
 public:
     void dfs(vector<int>adj[],int st,int p,int edge,int &cnt,int &k)
     {
-        if(edge<=k)
-        {
-            cnt++;
-        }
+        if(edge<=k) cnt++;
+        
         if(edge==k) return;
         for(auto &x:adj[st])
         {
@@ -38,11 +36,11 @@ public:
             adj2[v].push_back(u);
         }
 
-        vector<int>dp(n+1,1); //To Keep track of count of nodes with edge length <=k in the first tree
+        vector<int>dp(n+1,1); //To Keep track of count of nodes with edge length <=k in the first tree. Initialized with '1' because every node is already an answer to intself.
 
         if(k==0) return dp;
 
-        for(int i=0;i<(n+1);++i)
+        for(int i=0;i<=n;++i)
         {
             int cnt=0;
             int edges=0;
@@ -52,9 +50,9 @@ public:
 
         // To keep track of the number of vertices at a distance less than equal to (k-1). 
         // Here '1' edge will cost because of connection establishment from tree1 to tree2. 
-        // we then need to get the maximum as it's always wiser to connect tree1 with this point.
+        // we then need to get the maximum as it's always wiser to connect tree1 with this point only.
         int mx=0;
-        for(int i=0;i<(m+1);++i)     
+        for(int i=0;i<=m;++i)     
         {
             int cnt=0;  // count of all the vertices less than equal to (k-1) distance.
             int edges=0;
@@ -64,10 +62,8 @@ public:
         }
 
         vector<int>ans(n+1);
-        for(int i=0;i<(n+1);++i) 
-        {
-            ans[i]=mx+dp[i];
-        }
+        for(int i=0;i<=n;++i) ans[i]=mx+dp[i];
+        
         return ans;
     }
 };
