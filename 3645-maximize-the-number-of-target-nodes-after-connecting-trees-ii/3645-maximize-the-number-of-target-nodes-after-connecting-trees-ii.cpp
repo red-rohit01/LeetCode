@@ -108,7 +108,8 @@ public:
 
         auto final_cnt=dfs(adj1,0,-1,dp1);
         
-        rerooting_and_computing(adj1,0,-1,dp1);  //computing the cnt of even and odd for each of the nodes present in the tree 
+        rerooting_and_computing(adj1,0,-1,dp1);  //computing the cnt of even and odd for each of the nodes present in the tree1. We are using 
+        // rerooting technique to build our 'dp' for each of the nodes considering the time constraints.
 
         vector<pair<int,int>>dp2(m+1); // Keep track of cnt_of even and odd distance nodes {even,odd} in tree2
 
@@ -116,7 +117,8 @@ public:
 
         rerooting_and_computing(adj2,0,-1,dp2); 
 
-        int mx_odd_tree2=0;
+        int mx_odd_tree2=0;   // Since, we are expected to connect tree1 to tree2, any way one of the edge will be used for connection 
+        // b/w i'th node and the connection in tree2, so we need max odd count from tree2 to make the path count even.
         for(int i=0;i<(m+1);++i)
         {
             int curr=dp2[i].second;
