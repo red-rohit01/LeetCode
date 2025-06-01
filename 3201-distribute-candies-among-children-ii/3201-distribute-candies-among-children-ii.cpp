@@ -55,14 +55,10 @@ public:
 
         for(int i=mn_B;i<=mx_B;++i)
         {
-            // This particular check ensures that A and C got the values in the limit constraints
-            if((n-i)<=2*limit) // Now we are just finding the possible values for 'A' so the corresponding values for 'C' are always set.
-            {
-                long long lower_val=max(0LL,1LL*(n-i-limit));
-                long long upper_val=min(1LL*limit,1LL*(n-i));
-
-                ans+=(upper_val-lower_val)+1;
-            }
+            // Now we are just finding the possible values for 'A' so the corresponding values for 'C' are always set.
+            long long lower_val=max(0LL,1LL*(n-i-limit));
+            long long upper_val=min(1LL*limit,1LL*(n-i));
+            ans+=(upper_val-lower_val)+1;        
         }
         return ans;
     }
