@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/red-rohit01/LeetCode/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/red-rohit01/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/red-rohit01/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/red-rohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/red-rohit01/LeetCode/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/red-rohit01/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/red-rohit01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
