@@ -13,9 +13,7 @@ public:
         }
         
         string mn=str;
-        l=0;
-        while(mn[l]=='0') l++;
-        val=mn[l];
+        val=mn[0];
         for(int i=0;i<n;++i)
         {
             if(mn[i]==val) mn[i]='0';
@@ -27,7 +25,6 @@ public:
         for(int i=0;i<n;++i)
         {
             int curr=mn[i]-'0';
-            
             dk=(dk*10)+curr;
         }
         return (rk-dk);
