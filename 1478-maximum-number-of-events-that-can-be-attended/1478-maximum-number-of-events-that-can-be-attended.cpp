@@ -30,19 +30,19 @@ public:
         int m=events.size();
         for(int i=0;i<m;++i) mx=max(mx,events[i][1]);
 
-        priority_queue<int,vector<int>,greater<int>>q;
+        priority_queue<int,vector<int>,greater<int>>pq;
         int mn=events[0][0];
         int i=0,ans=0;
         for(int t=mn;t<=mx;++t)
         {
             while(i<m && events[i][0]<=t)  // at each time, we add the new events that are now attendable
-                q.push(events[i++][1]);
+                pq.push(events[i++][1]);
 
-            while(!q.empty() && q.top()<t) q.pop(); // we remove the ones that are not attendable anymore
+            while(!pq.empty() && pq.top()<t) pq.pop(); // we remove the ones that are not attendable anymore
 
-            if(!q.empty())
+            if(!pq.empty())
             {
-                q.pop();
+                pq.pop();
                 ans++;
             }
         }
