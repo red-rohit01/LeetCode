@@ -41,7 +41,7 @@ public:
         }
         int val=0;
         bool flag=true;
-        if(arr[ind]=='-')
+        if(arr[ind]=='-')   // To handle the 'minus' (negative) numbers
         {
             flag=false;
             ind++;
@@ -63,7 +63,6 @@ public:
     TreeNode *deserialize(string data) {
         // Your code here
         int ind=0;
-        //cout<<data<<"\n";
         return deserialize_helper(data,ind);
     }
 };
