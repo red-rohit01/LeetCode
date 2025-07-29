@@ -9,8 +9,8 @@ public:
         vector<int>latest(31);
         for(int i=n-1;i>=0;--i)
         {
-            for(int j=0;j<31;++j)      // so, later on we would get the most significant bit.
-            {
+            for(int j=0;j<31;++j)      // so, later on we would get the most significant bit.Even if there is one single bit at a
+            {                          // very later index. I would have to take that to get the maximum OR value
                 if(nums[i]&(1<<j)) latest[j]=i;
 
                 res[i]=max(res[i], (latest[j]-i+1));
