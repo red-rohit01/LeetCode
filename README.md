@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/red-rohit01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/red-rohit01/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/red-rohit01/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/red-rohit01/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/red-rohit01/LeetCode/tree/master/0952-word-subsets) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/red-rohit01/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/red-rohit01/LeetCode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/red-rohit01/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/red-rohit01/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1025-minimum-cost-for-tickets](https://github.com/red-rohit01/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/red-rohit01/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0691-stickers-to-spell-word](https://github.com/red-rohit01/LeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/red-rohit01/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/red-rohit01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
