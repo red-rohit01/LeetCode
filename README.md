@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2681-put-marbles-in-bags](https://github.com/red-rohit01/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/red-rohit01/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/red-rohit01/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/red-rohit01/LeetCode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/red-rohit01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/red-rohit01/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2681-put-marbles-in-bags](https://github.com/red-rohit01/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/red-rohit01/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/red-rohit01/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/red-rohit01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/red-rohit01/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/red-rohit01/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/red-rohit01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/red-rohit01/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/red-rohit01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2681-put-marbles-in-bags](https://github.com/red-rohit01/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/red-rohit01/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/red-rohit01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/red-rohit01/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
