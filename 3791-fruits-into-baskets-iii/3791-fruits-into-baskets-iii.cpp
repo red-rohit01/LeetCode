@@ -1,6 +1,7 @@
 class Solution {
 public:
-    // Nice solution implementing the concept of Square Root Decomposition
+    // Nice solution implementing the concept of Square Root Decomposition.
+    // \U0001f44c Explaination : https://leetcode.com/problems/fruits-into-baskets-iii/solutions/7046672/most-easily-explained-no-gpt-visual-dry-runs-to-understand-better-sqrt-decomposition/?envType=daily-question&envId=2025-08-06 
     int numOfUnplacedFruits(vector<int>& fruits, vector<int>& baskets) {
         int n=fruits.size();
         vector<int>sector_mx;
