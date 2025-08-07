@@ -1,63 +1,79 @@
 class Solution {
+private:
+    int n;
+    // row = i, col = j
+    int dfs3(int row, int col, vector<vector<int>>& mat) {
+        if (row < 0 || col < 0 || row >= n || col >= n) return 0;
+
+        if(memo[row][col] != -1){return memo[row][col];}
+        
+        int val = mat[row][col];
+        int res = 0;
+
+        if (row == col) {
+            res = max(res, dfs3(row + 1, col + 1, mat));
+        }
+        else if (row - 1 == col) {
+            res = max({res,
+                       dfs3(row + 1, col + 1, mat),
+                       dfs3(row, col + 1, mat)});
+        }
+        else {
+            res = max({res,
+                       dfs3(row + 1, col + 1, mat),
+                       dfs3(row, col + 1, mat),
+                       dfs3(row - 1, col + 1, mat)});
+        }
+        
+        return memo[row][col] = val + res;
+    }
+
+    int dfs2(int row, int col, vector<vector<int>>& mat) {
+        if (row < 0 || col < 0 || row >= n || col >= n) return 0;
+
+        if(memo[row][col] != -1){return memo[row][col];}
+        
+        int val = mat[row][col];
+        int res = 0;
+
+        if (row == col) {
+            res = max(res, dfs2(row + 1, col + 1, mat));
+        }
+        else if (row == col - 1) {
+            res = max({res,
+                       dfs2(row + 1, col + 1, mat),
+                       dfs2(row + 1, col, mat)});
+        }
+        else {
+            res = max({res,
+                       dfs2(row + 1, col + 1, mat),
+                       dfs2(row + 1, col, mat),
+                       dfs2(row + 1, col - 1, mat)});
+        }
+        
+        return memo[row][col] = val + res;
+    }
+
 public:
-    int maxCollectedFruits(vector<vector<int>>& fruits) {
-        int ans=0;
-        int n=fruits.size();
-        if(n==2)
-        {
-            ans+=fruits[0][0]+fruits[0][1]+fruits[1][0]+fruits[1][1];
-            return ans;
+    vector<vector<int>> memo;
+    int maxCollectedFruits(vector<vector<int>>& mat) {
+        n = mat.size();
+        int total = 0;
+
+        memo = vector<vector<int>> (n, vector<int> (n, -1));
+
+        // child - 1
+        // he will eat all diagonal fruits, so set them to 0 
+        for (int i = 0; i < n; i++) {
+            total += mat[i][i];
+            mat[i][i] = 0;
         }
-        if(n==3)
-        {
-            ans+=fruits[0][0]+fruits[0][2]+fruits[1][1]+fruits[1][2]+fruits[2][0]+fruits[2][1]+fruits[2][2];
-            return ans;
-        }
+        
+        // child - 2
+        total += dfs3(n - 1, 0, mat);
+        // child - 3
+        total += dfs2(0, n - 1, mat);
 
-        //First Child {0,0}  // To reach the cell {n-1,n-1} It can only traverse in the diagonal direction.
-        for(int i=0;i<n;++i)
-        {
-            ans+=fruits[i][i];
-        }
-        fruits[n-1][n-1]=0;
-
-        vector<vector<int>>dp(n,vector<int>(n));
-        dp[0][n-1]=fruits[0][n-1];
-
-        for(int i=0;i<n;++i)
-        {
-            for(int j=(n-i-1);j<n;++j)    // Here 'j' is initialized with (n-i-1) as we can allow only this much deviation on 'j' value so that It's ensured to reach (n-1,n-1)
-            {
-                if((i+1)<n && (i+1)<j) dp[i+1][j]=max(dp[i+1][j], dp[i][j]+fruits[i+1][j]);
-
-                if((i+1)<n && (j+1)<n && (i+1)<(j+1)) dp[i+1][j+1]=max(dp[i+1][j+1], dp[i][j]+fruits[i+1][j+1]);
-
-                if((i+1)<n && (i+1)<(j-1)) dp[i+1][j-1]=max(dp[i+1][j-1], dp[i][j]+fruits[i+1][j-1]);
-            }
-        }
-
-        ans+=dp[n-2][n-1];     // fruits at position {n-1,n-1} was already consumed by the boy moving diagonal
-
-        for(int i=0;i<n;++i)
-        {
-            for(int j=0;j<n;++j) dp[i][j]=0;
-        }
-
-        dp[n-1][0]=fruits[n-1][0];
-
-        for(int j=0;j<n;++j)
-        {
-            for(int i=(n-j-1);i<n;++i)
-            {
-                if((j+1)<n && (j+1)<i) dp[i][j+1]=max(dp[i][j+1], dp[i][j]+fruits[i][j+1]);
-
-                if((i+1)<n && (j+1)<n && (i+1)>(j+1)) dp[i+1][j+1]=max(dp[i+1][j+1], dp[i][j]+fruits[i+1][j+1]);
-
-                if((i-1)>=0 &&  (i-1)>(j+1)) dp[i-1][j+1]=max(dp[i-1][j+1], dp[i][j]+fruits[i-1][j+1]);
-            }
-        }
-
-        ans+=dp[n-1][n-2];
-        return ans;
+        return total;
     }
 };
