@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // It can be solved with normal multiplication too for each of the queries w/o using 'modinv' as for the given value of 'n' maximum
+    // no. of setbits can be 31 only. so, For each of the query, we need to traverse atmost 31 only. 
     const long long mod=1000000007;
     long long modexpo(long long a, long long b) {
         if (b == 0)
