@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2601-number-of-great-partitions](https://github.com/red-rohit01/LeetCode/tree/master/2601-number-of-great-partitions) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/red-rohit01/LeetCode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/red-rohit01/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/red-rohit01/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/red-rohit01/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
