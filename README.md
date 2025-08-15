@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/red-rohit01/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/red-rohit01/LeetCode/tree/master/0162-find-peak-element) |
 | [0221-maximal-square](https://github.com/red-rohit01/LeetCode/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/red-rohit01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/red-rohit01/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/red-rohit01/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/red-rohit01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/red-rohit01/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/red-rohit01/LeetCode/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/red-rohit01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/red-rohit01/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/red-rohit01/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/red-rohit01/LeetCode/tree/master/0854-making-a-large-island) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/red-rohit01/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/red-rohit01/LeetCode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/red-rohit01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/red-rohit01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/red-rohit01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1081,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/red-rohit01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
