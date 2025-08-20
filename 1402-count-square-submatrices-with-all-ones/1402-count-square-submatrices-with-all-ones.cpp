@@ -1,41 +1,64 @@
 class Solution {
 public:
     int countSquares(vector<vector<int>>& matrix) {
-        int m=matrix.size();
-        int n=matrix[0].size();
-        vector<vector<int>>dp(m+1,vector<int>(n+1));
-        int mx=min(m,n);
-
-        for(int i=1;i<=m;++i)
+        int n=matrix.size();
+        int m=matrix[0].size();
+        vector<vector<int>>dp(n,vector<int>(m));
+        for(int i=0;i<n;i++) dp[i][0]=matrix[i][0];
+        for(int j=0;j<m;j++) dp[0][j]=matrix[0][j];
+        for(int i=1;i<n;i++)
         {
-            for(int j=1;j<=n;++j)
+            for(int j=1;j<m;j++)
             {
-                dp[i][j]=dp[i-1][j]+dp[i][j-1]-dp[i-1][j-1]+matrix[i-1][j-1]; 
-            }
-        }
+                if(matrix[i][j]==0) dp[i][j]=0;
+                else dp[i][j]=1+min(dp[i-1][j],min(dp[i-1][j-1],dp[i][j-1]));
 
-        int ans=0;
-        for(int i=1;i<=m;++i)
+                // cout<<dp[i][j]<<" ";
+            }
+            // cout<<"\n";
+        }
+        int sum=0;
+        for(int i=0;i<n;i++)
         {
-            for(int j=1;j<=n;++j)
-            {
-                if(matrix[i-1][j-1]==1)
-                {
-                    ans++;
-                    for(int k=2;k<=mx;++k)       // Check for each of the size of the square
-                    {
-                        if((i+k-1)>m  || (j+k-1)>n) break;
-
-                        int val=dp[i+k-1][j+k-1];
-                        val-=dp[i-1][j+k-1];
-                        val-=dp[i+k-1][j-1];
-                        val+=dp[i-1][j-1];
-
-                        if(val==(k*k)) ans++;
-                    }
-                }
-            }
+            for(int j=0;j<m;j++) sum+=dp[i][j];
         }
-        return ans;
+        return sum;
+
+        // int m=matrix.size();
+        // int n=matrix[0].size();
+        // vector<vector<int>>dp(m+1,vector<int>(n+1));
+        // int mx=min(m,n);
+
+        // for(int i=1;i<=m;++i)
+        // {
+        //     for(int j=1;j<=n;++j)
+        //     {
+        //         dp[i][j]=dp[i-1][j]+dp[i][j-1]-dp[i-1][j-1]+matrix[i-1][j-1]; 
+        //     }
+        // }
+
+        // int ans=0;
+        // for(int i=1;i<=m;++i)
+        // {
+        //     for(int j=1;j<=n;++j)
+        //     {
+        //         if(matrix[i-1][j-1]==1)
+        //         {
+        //             ans++;
+        //             for(int k=2;k<=mx;++k)       // Check for each of the size of the square
+        //             {
+        //                 if((i+k-1)>m  || (j+k-1)>n) break;
+
+        //                 int val=dp[i+k-1][j+k-1];
+        //                 val-=dp[i-1][j+k-1];
+        //                 val-=dp[i+k-1][j-1];
+        //                 val+=dp[i-1][j-1];
+
+        //                 if(val==(k*k)) ans++;
+        //             }
+        //         }
+        //     }
+        // }
+        // return ans;
     }
 };
