@@ -1,37 +1,31 @@
 class Solution {
 public:
     vector<vector<int>> sortMatrix(vector<vector<int>>& grid) {
-        int n=grid.size();
-        unordered_map<int,priority_queue<int>>maxHeaps;
-        unordered_map<int,priority_queue<int,vector<int>,greater<int>>>minHeaps;
+        map<int,vector<int>>mpp;
+        int n = grid.size();
 
-        for(int i=0;i<n;++i) 
-        {
-            for(int j=0;j<n;++j) 
-            {
-                int key=i-j;
-                if(key<0) minHeaps[key].push(grid[i][j]);
-                else maxHeaps[key].push(grid[i][j]);
+        for(int i = 0; i < n ;i++){
+            for(int j = 0 ;j < n;j++){
+                mpp[i-j].push_back(grid[i][j]);
             }
         }
 
-        for(int i=0;i<n;++i) 
-        {
-            for (int j=0;j<n;++j) 
-            {
-                int key=i-j;
-                if(key<0) 
-                {
-                    grid[i][j]=minHeaps[key].top();
-                    minHeaps[key].pop();
-                } 
-                else 
-                {
-                    grid[i][j]=maxHeaps[key].top();
-                    maxHeaps[key].pop();
-                }
+        for(auto &it : mpp){
+            if(it.first < 0){
+                sort(begin(it.second),end(it.second));
+            }
+            else{
+                sort(begin(it.second),end(it.second),greater<int>());
             }
         }
+
+        for(int i = n-1;i >=0;i--){
+            for(int j = n-1;j >=0 ;j--){
+                grid[i][j] = mpp[i-j].back();
+                mpp[i-j].pop_back();
+            }
+        }
+
         return grid;
     }
 };
