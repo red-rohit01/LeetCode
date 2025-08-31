@@ -1,5 +1,8 @@
 class Solution {
 public:
+    // Time Complexity : O(9^(N*N)) : For every unassigned index there are 9 possible options so the worst-case time
+    // complexity of sudoku solver is O(9^(N*N)).
+    
     bool is_safe(int i,int j,int val,vector<vector<char>>&board)
     {
         for(int k=0;k<9;++k)
