@@ -911,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/red-rohit01/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3699-count-special-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/3699-count-special-subsequences) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/red-rohit01/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3830-find-closest-person](https://github.com/red-rohit01/LeetCode/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
 | ------- |
