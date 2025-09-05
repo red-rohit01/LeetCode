@@ -7,7 +7,7 @@ public:
         for(int k=1;k<=32;++k)
         {
             long long val=1LL*num1-(num2*1LL*k);
-            if(val<=0 || val<k) return -1;
+            if(val<k) return -1;         // At minm, I would have to add '1' for each k. If this won't meet then Not possible
             int cnt=0;
             while(val)
             {
