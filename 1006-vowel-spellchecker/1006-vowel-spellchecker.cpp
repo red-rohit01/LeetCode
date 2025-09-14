@@ -1,6 +1,7 @@
 class Solution {
 public:
     // If you use cap[lower] = w; you're replacing the spot in the map with w. If you use insert, STL doesn't replace an existing key.
+    // Idea is simple just check the precedence rule to return the answer.
     string toLower(string w)
     {
         for(auto &c:w) c=tolower(c);
