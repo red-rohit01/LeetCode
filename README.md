@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/red-rohit01/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/red-rohit01/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3795-zero-array-transformation-iv](https://github.com/red-rohit01/LeetCode/tree/master/3795-zero-array-transformation-iv) |
+| [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3956-trionic-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3956-trionic-array-ii) |
 ## Dynamic Programming
 |  |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/red-rohit01/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/red-rohit01/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/red-rohit01/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
 | ------- |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/red-rohit01/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/red-rohit01/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/red-rohit01/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/red-rohit01/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/red-rohit01/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/red-rohit01/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/red-rohit01/LeetCode/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
+| [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/red-rohit01/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
@@ -1361,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/red-rohit01/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/red-rohit01/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Database
 |  |
 | ------- |
