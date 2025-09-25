@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/red-rohit01/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/red-rohit01/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/red-rohit01/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/red-rohit01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/red-rohit01/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/red-rohit01/LeetCode/tree/master/0139-word-break) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/red-rohit01/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/red-rohit01/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/red-rohit01/LeetCode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/red-rohit01/LeetCode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/red-rohit01/LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/red-rohit01/LeetCode/tree/master/0279-perfect-squares) |
