@@ -2,19 +2,24 @@ class Solution {
 public:
     int triangleNumber(vector<int>& nums) {
         int n=nums.size();
+        if(n<3) return 0;
         sort(nums.begin(),nums.end());
 
         int ans=0;
-        for(int i=0;i<n;++i)
+        for(int i=n-1;i>1;--i)
         {
-            for(int j=i+1;j<n;++j)
+            int r=i-1;
+            int l=0;
+            while(l<r)
             {
-                int side=(nums[j]-nums[i]);
-                auto it=upper_bound(nums.begin(),nums.begin()+i,side)-nums.begin();
-                int number_of_sides=(i-it);
-                ans+=number_of_sides;
+                int curr=nums[r]+nums[l];
+                if(curr>nums[i])
+                {
+                    ans+=(r-l);
+                    r--;
+                }
+                else l++;
             }
-            
         }
         return ans;
     }
