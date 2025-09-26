@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/red-rohit01/LeetCode/tree/master/0518-coin-change-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/red-rohit01/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/red-rohit01/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/red-rohit01/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/red-rohit01/LeetCode/tree/master/0621-task-scheduler) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/red-rohit01/LeetCode/tree/master/0691-stickers-to-spell-word) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/red-rohit01/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/red-rohit01/LeetCode/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/red-rohit01/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/red-rohit01/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/red-rohit01/LeetCode/tree/master/0621-task-scheduler) |
 | [0670-maximum-swap](https://github.com/red-rohit01/LeetCode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/red-rohit01/LeetCode/tree/master/0768-partition-labels) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/red-rohit01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/red-rohit01/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0611-valid-triangle-number](https://github.com/red-rohit01/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/red-rohit01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/red-rohit01/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/red-rohit01/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/red-rohit01/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/red-rohit01/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/red-rohit01/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/red-rohit01/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/red-rohit01/LeetCode/tree/master/0621-task-scheduler) |
 | [0780-max-chunks-to-make-sorted](https://github.com/red-rohit01/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/red-rohit01/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -805,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/red-rohit01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/red-rohit01/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/red-rohit01/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/red-rohit01/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/red-rohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/red-rohit01/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/red-rohit01/LeetCode/tree/master/0868-push-dominoes) |
