@@ -19,6 +19,21 @@ public:
     // (1, 1) won't be able to hold any water as well no matter what.
     
     // The idea is to use min_height from any of the boundary 
+    // What if we are able to find a way to approach a block via its min height blocking cell and then just check if the height of min block
+    // cell is greater than curr. If it is greater, then curr cell can hold water, this is because we were able to reach the current cell via
+    // the min height blocking cell and that means remaining blocking cells are all greater in height than this path cell. So if this path cell
+    // is greater than current, then all other blocking cells are greater as well.
+    
+    // Now to actually do this in practice, we make use of min heap. We add the initial border cells to heap. Then slowly start reaching the inner
+    // cells via the shortest height boundary cells, while keeping track of tallest cell boundary in the path.
+    // Each time we reach an inner cell, there are 2 possibilities:
+    // 1. Inner cell is greater, then we add this to heap as well. This can act as a blocking height for more inner cells.
+    // 2. Inner cell is smaller, then we know that this inner call can hold water = path_cell - inner_cell. Add this to heap as well
+    
+    // While adding new elements to heap, make sure to add the max height of that path, since that is the actual boundary in that path.
+    
+    // TC: O(MNlog(MN))
+    // SC: O(MN)
     int trapRainWater(vector<vector<int>>& heightMap) {
         int n=heightMap.size();
         int m=heightMap[0].size();
@@ -28,7 +43,7 @@ public:
         vector<int>dr={-1,0,1,0,-1};
         
         // <height, row, col>
-        priority_queue<vector<int>,vector<vector<int>>, greater<vector<int>>>pq; 
+        priority_queue<vector<int>,vector<vector<int>>, greater<vector<int>>>pq; // min priority queue
 
         // Adding all the boundary cells from Top and Bottom
         for(int j=0;j<m;++j)
@@ -39,6 +54,7 @@ public:
             vis[n-1][j]=1;
         }
 
+        // Adding all the boundary cells from left and right
         for(int i=0;i<n;++i)
         {
             pq.push({heightMap[i][0],i,0});
