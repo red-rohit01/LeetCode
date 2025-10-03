@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/red-rohit01/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/red-rohit01/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/red-rohit01/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/red-rohit01/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/red-rohit01/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/red-rohit01/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/red-rohit01/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/red-rohit01/LeetCode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/red-rohit01/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/red-rohit01/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/red-rohit01/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/red-rohit01/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/red-rohit01/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/red-rohit01/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/red-rohit01/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/red-rohit01/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/red-rohit01/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/red-rohit01/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/red-rohit01/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2047-find-a-peak-element-ii](https://github.com/red-rohit01/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -889,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/red-rohit01/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/red-rohit01/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/red-rohit01/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/red-rohit01/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/red-rohit01/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/red-rohit01/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/red-rohit01/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -1086,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/red-rohit01/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/red-rohit01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/red-rohit01/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/red-rohit01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/red-rohit01/LeetCode/tree/master/2145-grid-game) |
