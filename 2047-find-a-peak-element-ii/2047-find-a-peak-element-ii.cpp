@@ -36,7 +36,8 @@ public:
                     row=i;
                 }
             }
-
+            // Here we could have checked with both 'true' condition by checking mx_val>mat[row][mid-1] and [mid+1] but for that there
+            // require additional check of (mid-1)>=l and (mid+1)<=h or not. It serves the same purpose with false and less checks.
             bool left_candidate=((mid-1)>=l && mx_val<mat[row][mid-1]);    // checking if 'left' side is a valid candidate for peak
             bool right_candidate=((mid+1)<=h && mx_val<mat[row][mid+1]);     // checking if 'right' side is a valid candidate for peak
 
