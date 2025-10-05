@@ -42,8 +42,8 @@ public:
 
         int m=matrix.size();
         int n=matrix[0].size();
-        vector<int>left(n);    // left[i]=j --> Tells us the left most index 'j' which satisfies for k=[j,i] and height[k]>=height[i]
-        vector<int>right(n,n-1);     // right[i]=j --> Tells us the right most index 'j' which satisfies for k=[i,j] and height[k]>=height[i]
+        vector<int>left(n);//left[i]=j-->Tells us the left most index 'j' which satisfies for k=[j,i](k belongs to index from j to i) and height[k]>=height[i]
+        vector<int>right(n,n-1); //right[i]=j --> Tells us the right most index 'j' which satisfies for k=[i,j] and height[k]>=height[i]
         vector<int>height(n);
         int maxArea=0;
 
@@ -62,7 +62,7 @@ public:
                 else 
                 {
                     left[j]=0;
-                    curLeft=j+1;   //Atlease (j+1)'th index or higher can be our boundary for further values.
+                    curLeft=j+1;   //Only (j+1)'th index or higher can be our boundary for further values.
                 }
             }
 
@@ -76,14 +76,12 @@ public:
                 }
             }
 
-            // for(int j=0;j<n;++j) cout<<left[j]<<" ";
-            // cout<<"\n";
-            // for(int j=0;j<n;++j) cout<<right[j]<<" ";
-            // cout<<"\n";
             for (int j=0;j<n;++j) 
             {
+                //cout<<left[j]<<" "<<right[j]<<" - ";
                 maxArea=max(maxArea, (right[j]-left[j]+1)*height[j]);
             }
+            //cout<<"\n";
         }
         return maxArea;
     }
