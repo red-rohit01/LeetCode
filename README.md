@@ -616,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/red-rohit01/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/red-rohit01/LeetCode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/red-rohit01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/red-rohit01/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/red-rohit01/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -829,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/red-rohit01/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/red-rohit01/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/red-rohit01/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/red-rohit01/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/red-rohit01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/red-rohit01/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/red-rohit01/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -1244,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/red-rohit01/LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/red-rohit01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/red-rohit01/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -1268,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/red-rohit01/LeetCode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2280-count-good-triplets-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
@@ -1486,6 +1490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/red-rohit01/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/red-rohit01/LeetCode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/red-rohit01/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/red-rohit01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/red-rohit01/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Probability and Statistics
