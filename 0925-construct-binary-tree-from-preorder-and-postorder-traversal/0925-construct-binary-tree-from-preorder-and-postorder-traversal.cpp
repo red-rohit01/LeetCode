@@ -11,27 +11,25 @@
  */
 class Solution {
 public:
-    TreeNode* helper(vector<int>& preorder,vector<int>& postorder,unordered_map<int,int>&rk,int psi,int pei,int posi,int poei)
+    TreeNode* helper(int preS, int postS, int preE, vector<int>&pre, vector<int>&post)
     {
-        if(psi>pei) return NULL;
-
-        TreeNode* root=new TreeNode(preorder[psi]);
-        if(psi==pei) return root;
-
-        //int temp=rk[preorder[psi+1]];
-        int temp=posi;
-        while(postorder[temp]!=preorder[psi+1]) temp++;
-
-        int len=(temp-posi+1);
-        root->left=helper(preorder,postorder,rk,psi+1,psi+len,posi,temp);
-        root->right=helper(preorder,postorder,rk,psi+len+1,pei,temp+1,poei-1);
+        if(preS>preE) return nullptr;
+        
+        TreeNode* root=new TreeNode(pre[preS]);
+        if(preS==preE) return root;
+        
+        int j=postS;
+        while(post[j]!=pre[preS+1]) j++;
+        
+        int len=j-postS+1;
+        root->left=helper(preS+1,postS,preS+len,pre,post);
+        root->right=helper(preS+len+1,j+1,preE,pre,post);
+        
         return root;
     }
     TreeNode* constructFromPrePost(vector<int>& preorder, vector<int>& postorder) {
-        unordered_map<int,int>rk;
-        int l=postorder.size();
-        for(int i=0;i<l;++i) rk[postorder[i]]=i;
-        return helper(preorder,postorder,rk,0,l-1,0,l-1);
+        int n=preorder.size();
+        return helper(0,0,n-1,preorder,postorder);
     }
     
 };
