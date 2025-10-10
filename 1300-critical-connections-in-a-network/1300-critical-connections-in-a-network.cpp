@@ -15,7 +15,7 @@ public:
                 low[node]=min(low[it],low[node]);
                 if (low[it] > tin[node]) bridges.push_back({it, node});
             }
-            else low[node]=min(low[node], low[it]); 
+            else low[node]=min(low[node], tin[it]); // low[node]=min(low[node],low[it]);
         }
     }
     vector<vector<int>> criticalConnections(int n, vector<vector<int>>& connections) {
