@@ -810,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/red-rohit01/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/red-rohit01/LeetCode/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/red-rohit01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1300-critical-connections-in-a-network](https://github.com/red-rohit01/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/red-rohit01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/red-rohit01/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1212,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/red-rohit01/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/red-rohit01/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1300-critical-connections-in-a-network](https://github.com/red-rohit01/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/red-rohit01/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/red-rohit01/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -1534,4 +1536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/red-rohit01/LeetCode/tree/master/0146-lru-cache) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/red-rohit01/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
