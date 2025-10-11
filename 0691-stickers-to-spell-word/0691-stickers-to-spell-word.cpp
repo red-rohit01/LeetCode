@@ -2,17 +2,17 @@ class Solution {
 public:
     // dp[i][j]-->represents that minimum stickers out of first 'i' stickers to build till 'j' mask
     // The idea is to try out all the possibilities to create the characters of target....which we can check via mask
-    int helper(int ind,int curr,vector<string>&stickers,string &target,vector<vector<int>>&dp,int &mask)
+    int helper(int ind,int curr_mask,vector<string>&stickers,string &target,vector<vector<int>>&dp,int &mask)
     {
-        if(curr==mask) return 0;
+        if(curr_mask==mask) return 0;
         int n=stickers.size();
         if(ind>=n) return 1e9;
 
-        if(dp[ind][curr]!=-1) return dp[ind][curr];
+        if(dp[ind][curr_mask]!=-1) return dp[ind][curr_mask];
 
-        int not_take=helper(ind+1,curr,stickers,target,dp,mask);
+        int not_take=helper(ind+1,curr_mask,stickers,target,dp,mask);
         int take=1e9;
-        int prev=curr;
+        int prev=curr_mask;
         int len=target.size();
         bool flag=false;
         for(int i=0;i<stickers[ind].size();++i)
@@ -21,11 +21,11 @@ public:
             {
                 if(stickers[ind][i]==target[l])
                 {
-                    if((curr&(1<<l))!=0) continue;   // If already found then no need to make another call
+                    if((curr_mask&(1<<l))!=0) continue;   // If already found then no need to make another call
 
                     else 
                     {
-                        curr=(curr|(1<<l));
+                        curr_mask=(curr_mask|(1<<l));
                         flag=true;
                         break;
                     }
@@ -35,7 +35,7 @@ public:
 
         if(flag)
         {
-            take=1+helper(ind,curr,stickers,target,dp,mask);
+            take=1+helper(ind,curr_mask,stickers,target,dp,mask);
         }
 
         return dp[ind][prev]=min(take,not_take);
