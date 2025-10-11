@@ -6,17 +6,17 @@ public:
     MedianFinder() {
     }
     void addNum(int num) {
-        maxHeap.push(num);
-        minHeap.push(maxHeap.top());
-        maxHeap.pop();
-        if (minHeap.size() > maxHeap.size()) 
+        minHeap.push(num);
+        maxHeap.push(minHeap.top());
+        minHeap.pop();
+        if (maxHeap.size() > minHeap.size()) 
         {
-            maxHeap.push(minHeap.top());
-            minHeap.pop();
+            minHeap.push(maxHeap.top());
+            maxHeap.pop();
         }
     }
     double findMedian() {
-        if (maxHeap.size() > minHeap.size()) return maxHeap.top();
+        if (minHeap.size() > maxHeap.size()) return minHeap.top();
         return (maxHeap.top() + minHeap.top()) / 2.0;
     }
 
