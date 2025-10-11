@@ -11,9 +11,9 @@ public:
         if(s1[i] == s2[j]) return dp[i][j]=solve(i+1, j+1, s1, s2);
         else 
         {
-            int insert_op=1+( dp[i][j+1]!=-1 ?dp[i][j+1]: solve(i, j + 1, s1, s2));
-            int delete_op=1+(dp[i+1][j]!=-1?dp[i+1][j]: solve(i + 1, j, s1, s2));
-            int replace_op=1+(dp[i+1][j+1]!=-1?dp[i+1][j+1]: solve(i + 1, j + 1, s1, s2));
+            int insert_op=1+solve(i, j + 1, s1, s2);
+            int delete_op=1+solve(i + 1, j, s1, s2);
+            int replace_op=1+solve(i + 1, j + 1, s1, s2);
             return  dp[i][j]=min({insert_op, delete_op, replace_op});
         }
     }
