@@ -1,59 +1,39 @@
 // The idea is that precompute sizes of all the different originally connected components and then Traverse the matrix and whenever we
 // encounter a '0'. we'll check for all it's four sided neighbours and the potential 'ans' can be the summation of sizes of the neighboring
 // ultimate parents.
-
-class DisjointSet {    
+class DSU {    
 public:
-    vector<int> rank, parent, size;
-    DisjointSet(int n) {
-        rank.resize(n+1, 0);
-        parent.resize(n+1);
-        size.resize(n+1);
-        for (int i=0;i<=n;++i) 
-        {
-            parent[i]=i;
-            size[i]=1;
-        }
+    vector<int>parent,size;
+    DSU(int n)
+    {
+        parent.resize(n,1);
+        size.resize(n,1);
+        for(int i=0;i<n;++i) parent[i]=i;
     }
 
-    int findUPar(int node) 
+    int findUPar(int x)
     {
-        if (node==parent[node]) return node;
+        if(parent[x]==x) return x;
 
-        return parent[node]=findUPar(parent[node]);
+        return parent[x]=findUPar(parent[x]);
     }
 
-    void unionByRank(int u, int v) 
+    void unionBySize(int x, int y)
     {
-        int ulp_u=findUPar(u);
-        int ulp_v=findUPar(v);
-        if(ulp_u==ulp_v) return;
+        int uParX=findUPar(x);
+        int uParY=findUPar(y);
 
-        if(rank[ulp_u]<rank[ulp_v]) parent[ulp_u] = ulp_v;
+        if(uParX==uParY) return;
 
-        else if(rank[ulp_v]<rank[ulp_u]) parent[ulp_v]=ulp_u;
-        else 
+        if(size[uParX]>size[uParY])
         {
-            parent[ulp_v]=ulp_u;
-            rank[ulp_u]++;
-        }
-    }
-
-    void unionBySize(int u, int v) 
-    {
-        int ulp_u=findUPar(u);
-        int ulp_v=findUPar(v);
-        if (ulp_u==ulp_v) return;
-
-        if(size[ulp_u]<size[ulp_v]) 
-        {
-            parent[ulp_u]=ulp_v;
-            size[ulp_v]+=size[ulp_u];
+            parent[uParY]=uParX;
+            size[uParX]+=size[uParY];
         }
         else 
         {
-            parent[ulp_v]=ulp_u;
-            size[ulp_u]+=size[ulp_v];
+            parent[uParX]=uParY;
+            size[uParY]+=size[uParX];
         }
     }
 };
@@ -64,7 +44,7 @@ public:
     {
         int cnt=0;
         int n=grid.size();
-        DisjointSet ds(n*n);
+        DSU ds(n*n);
 
         vector<int>dr={1,0,-1,0,1};
         for(int i=0;i<n;++i)
