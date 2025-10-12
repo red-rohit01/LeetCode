@@ -8,7 +8,7 @@ class Solution {
 public:
     static bool cmp(job& a,job& b)
     {
-        if(a.end==b.end) return a.profit>b.profit;
+        //if(a.end==b.end) return a.profit>b.profit;
         return a.end < b.end;
     }
     int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
