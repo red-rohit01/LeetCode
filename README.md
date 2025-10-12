@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-zero-array-transformation-iv](https://github.com/red-rohit01/LeetCode/tree/master/3795-zero-array-transformation-iv) |
 | [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/red-rohit01/LeetCode/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3956-trionic-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3956-trionic-array-ii) |
 ## Dynamic Programming
 |  |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/red-rohit01/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/red-rohit01/LeetCode/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3795-zero-array-transformation-iv](https://github.com/red-rohit01/LeetCode/tree/master/3795-zero-array-transformation-iv) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3956-trionic-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3956-trionic-array-ii) |
 ## Matrix
 |  |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/red-rohit01/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1019,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/red-rohit01/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/red-rohit01/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/red-rohit01/LeetCode/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Number Theory
 |  |
 | ------- |
@@ -1409,6 +1413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/red-rohit01/LeetCode/tree/master/0691-stickers-to-spell-word) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Trie
 |  |
 | ------- |
@@ -1504,6 +1509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/red-rohit01/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/red-rohit01/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/red-rohit01/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
 | ------- |
