@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/red-rohit01/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1184-car-pooling](https://github.com/red-rohit01/LeetCode/tree/master/1184-car-pooling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/red-rohit01/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/red-rohit01/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/red-rohit01/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/red-rohit01/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/red-rohit01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/red-rohit01/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/red-rohit01/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/red-rohit01/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/red-rohit01/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/red-rohit01/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/red-rohit01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/red-rohit01/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
