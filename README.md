@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/red-rohit01/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/red-rohit01/LeetCode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2665-minimum-time-to-repair-cars](https://github.com/red-rohit01/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2681-put-marbles-in-bags](https://github.com/red-rohit01/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/red-rohit01/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2592-minimum-total-cost-to-make-arrays-unequal](https://github.com/red-rohit01/LeetCode/tree/master/2592-minimum-total-cost-to-make-arrays-unequal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/red-rohit01/LeetCode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2681-put-marbles-in-bags](https://github.com/red-rohit01/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/red-rohit01/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/red-rohit01/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/red-rohit01/LeetCode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2665-minimum-time-to-repair-cars](https://github.com/red-rohit01/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/red-rohit01/LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/red-rohit01/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/red-rohit01/LeetCode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2681-put-marbles-in-bags](https://github.com/red-rohit01/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/red-rohit01/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -1062,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/red-rohit01/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/red-rohit01/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2549-next-greater-element-iv](https://github.com/red-rohit01/LeetCode/tree/master/2549-next-greater-element-iv) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/red-rohit01/LeetCode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [3001-apply-operations-to-maximize-score](https://github.com/red-rohit01/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/red-rohit01/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/red-rohit01/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
