@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/red-rohit01/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/red-rohit01/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/red-rohit01/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/red-rohit01/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/red-rohit01/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/red-rohit01/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
