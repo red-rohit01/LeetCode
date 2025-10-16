@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/red-rohit01/LeetCode/tree/master/2657-minimum-time-to-complete-all-tasks) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/red-rohit01/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/red-rohit01/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2681-put-marbles-in-bags](https://github.com/red-rohit01/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-minimum-total-cost-to-make-arrays-unequal](https://github.com/red-rohit01/LeetCode/tree/master/2592-minimum-total-cost-to-make-arrays-unequal) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/red-rohit01/LeetCode/tree/master/2657-minimum-time-to-complete-all-tasks) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/red-rohit01/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2681-put-marbles-in-bags](https://github.com/red-rohit01/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/red-rohit01/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/red-rohit01/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/red-rohit01/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/red-rohit01/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/red-rohit01/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/red-rohit01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1023,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2531-create-components-with-same-value](https://github.com/red-rohit01/LeetCode/tree/master/2531-create-components-with-same-value) |
 | [2610-closest-prime-numbers-in-range](https://github.com/red-rohit01/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/red-rohit01/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/red-rohit01/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2670-make-k-subarray-sums-equal](https://github.com/red-rohit01/LeetCode/tree/master/2670-make-k-subarray-sums-equal) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/red-rohit01/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/red-rohit01/LeetCode/tree/master/2716-prime-subtraction-operation) |
