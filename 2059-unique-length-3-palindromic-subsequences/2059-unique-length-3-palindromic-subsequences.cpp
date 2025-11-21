@@ -1,7 +1,6 @@
 class Solution {
 public:
     // The idea is to fix the first and 3rd index as one of the character and all of unique inside is our answer.
-
     int countPalindromicSubsequence(string s) {
         int n=s.size();
         vector<int>st(26,1e6),last(26,-1);//st keeps track of the first index of occurence of a particular character and 'last' last index
