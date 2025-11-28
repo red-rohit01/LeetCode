@@ -1,14 +1,20 @@
 class Solution {
 public:
-        long long maxSubarraySum(vector<int>& A, int k) {
-        vector<long long> prefix(k, 1e15);
-        prefix[k - 1] = 0;
-        long long res = -1e15, pre = 0;
-        for (int i=0;i<A.size();++i) 
+    // We can solve it normally with O(n) space to have dp of size 'n'. Now, Let's try to solve it with O(k) space 
+    long long maxSubarraySum(vector<int>& nums, int k) {
+        vector<long long> dp(k);
+        int n=nums.size();
+        long long res=-1e15,currSum=0;
+        for(int i=0;i<n;++i) 
         {
-            pre += A[i];
-            res = max(res, pre - prefix[i % k]);
-            prefix[i % k] = min(prefix[i % k], pre);
+            currSum+=nums[i];
+            if(i>=k) currSum-=nums[i-k];
+
+            if((i+1)>=k)
+            {
+                dp[i%k]=max(currSum, currSum+dp[i%k]);
+                res=max(res,dp[i%k]);
+            }
         }
         return res;
     }
