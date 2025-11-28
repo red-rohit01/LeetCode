@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/red-rohit01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/red-rohit01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/red-rohit01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/red-rohit01/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/red-rohit01/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/red-rohit01/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/red-rohit01/LeetCode/tree/master/0146-lru-cache) |
@@ -1675,6 +1676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/red-rohit01/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/red-rohit01/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/red-rohit01/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/red-rohit01/LeetCode/tree/master/0148-sort-list) |
