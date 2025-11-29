@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-zero-array-transformation-iv](https://github.com/red-rohit01/LeetCode/tree/master/3795-zero-array-transformation-iv) |
 | [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/red-rohit01/LeetCode/tree/master/3827-implement-router) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/red-rohit01/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/red-rohit01/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3956-trionic-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3956-trionic-array-ii) |
@@ -1138,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/red-rohit01/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/red-rohit01/LeetCode/tree/master/3830-find-closest-person) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/red-rohit01/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Number Theory
 |  |
