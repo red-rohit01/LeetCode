@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/red-rohit01/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3886-count-number-of-trapezoids-i](https://github.com/red-rohit01/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/red-rohit01/LeetCode/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3956-trionic-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3956-trionic-array-ii) |
 ## Dynamic Programming
 |  |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-power-grid-maintenance](https://github.com/red-rohit01/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/red-rohit01/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3886-count-number-of-trapezoids-i](https://github.com/red-rohit01/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/red-rohit01/LeetCode/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/red-rohit01/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3886-count-number-of-trapezoids-i](https://github.com/red-rohit01/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/red-rohit01/LeetCode/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -1715,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/red-rohit01/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/red-rohit01/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3886-count-number-of-trapezoids-i](https://github.com/red-rohit01/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/red-rohit01/LeetCode/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Game Theory
 |  |
 | ------- |
