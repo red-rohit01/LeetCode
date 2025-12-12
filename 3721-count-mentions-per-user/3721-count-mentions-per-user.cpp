@@ -24,8 +24,8 @@ public:
             {
                 while(!pq.empty() && pq.top().first<=stoi(events[i][1]))
                 { 
-                    userStatus[pq.top().second]++; 
-                    pq.pop(); 
+                    userStatus[pq.top().second]++;    // Since, we are counting each mentions separately, It's possible that same user
+                    pq.pop();                 // is offline in one mention and active in other one. so, not using userStatus[id]=1 or 0
                 }
 
                 if(events[i][2] == "ALL") all++;
