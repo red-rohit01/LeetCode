@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/red-rohit01/LeetCode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/red-rohit01/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/red-rohit01/LeetCode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/red-rohit01/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/red-rohit01/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/red-rohit01/LeetCode/tree/master/3885-count-special-triplets) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-zero-array-transformation-iv](https://github.com/red-rohit01/LeetCode/tree/master/3795-zero-array-transformation-iv) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/red-rohit01/LeetCode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/red-rohit01/LeetCode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3956-trionic-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3956-trionic-array-ii) |
 ## Matrix
 |  |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/red-rohit01/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/red-rohit01/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/red-rohit01/LeetCode/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/red-rohit01/LeetCode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -969,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/red-rohit01/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/red-rohit01/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/red-rohit01/LeetCode/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/red-rohit01/LeetCode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/red-rohit01/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
