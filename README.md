@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/red-rohit01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/red-rohit01/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/red-rohit01/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3334-apple-redistribution-into-boxes](https://github.com/red-rohit01/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/red-rohit01/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/red-rohit01/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/red-rohit01/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/red-rohit01/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/red-rohit01/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3334-apple-redistribution-into-boxes](https://github.com/red-rohit01/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/red-rohit01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/red-rohit01/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/red-rohit01/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/red-rohit01/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/red-rohit01/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/red-rohit01/LeetCode/tree/master/3321-type-of-triangle) |
+| [3334-apple-redistribution-into-boxes](https://github.com/red-rohit01/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/red-rohit01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/red-rohit01/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/red-rohit01/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
