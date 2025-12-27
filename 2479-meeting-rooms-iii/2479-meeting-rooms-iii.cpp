@@ -26,7 +26,7 @@ public:
             
             if(unused.size()>0) 
             {
-                int room = unused.top();
+                int room=unused.top();
                 unused.pop();                
                 freq[room]++;
 
@@ -47,7 +47,7 @@ public:
         int maxi=0;
         for(int i=1;i<n;++i) 
         {
-            if(freq[i] > freq[maxi]) maxi = i;
+            if(freq[i]>freq[maxi]) maxi=i;
         }
         return maxi;
     }
