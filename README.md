@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/red-rohit01/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/red-rohit01/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/red-rohit01/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/red-rohit01/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2107-find-unique-binary-string](https://github.com/red-rohit01/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/red-rohit01/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/red-rohit01/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/red-rohit01/LeetCode/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/red-rohit01/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/red-rohit01/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/red-rohit01/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2145-grid-game](https://github.com/red-rohit01/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/red-rohit01/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/red-rohit01/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/red-rohit01/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/red-rohit01/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2047-find-a-peak-element-ii](https://github.com/red-rohit01/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/red-rohit01/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/red-rohit01/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/red-rohit01/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/red-rohit01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -981,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/red-rohit01/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/red-rohit01/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/red-rohit01/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2201-valid-arrangement-of-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2213-find-all-people-with-secret](https://github.com/red-rohit01/LeetCode/tree/master/2213-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/red-rohit01/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1435,6 +1439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/red-rohit01/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1876-map-of-highest-peak](https://github.com/red-rohit01/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/red-rohit01/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/red-rohit01/LeetCode/tree/master/2213-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/red-rohit01/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/red-rohit01/LeetCode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1686,6 +1691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/red-rohit01/LeetCode/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/red-rohit01/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/red-rohit01/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/red-rohit01/LeetCode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/red-rohit01/LeetCode/tree/master/2213-find-all-people-with-secret) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/red-rohit01/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
