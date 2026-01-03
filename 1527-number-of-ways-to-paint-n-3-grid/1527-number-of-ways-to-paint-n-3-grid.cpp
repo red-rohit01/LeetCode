@@ -19,6 +19,8 @@ public:
     // and the Initial state (that is only one line)
     // Y[1] = 6, W[1] = 6;
 
+    // For diagram by [NerdXie]: https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/solutions/574932/simple-solution-with-picture-follow-up-w-ulck/
+
     int numOfWays(int n) {
         if(n==1) return 12;
 
