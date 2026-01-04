@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/red-rohit01/LeetCode/tree/master/1184-car-pooling) |
 | [1223-graph-connectivity-with-threshold](https://github.com/red-rohit01/LeetCode/tree/master/1223-graph-connectivity-with-threshold) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/red-rohit01/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1284-four-divisors](https://github.com/red-rohit01/LeetCode/tree/master/1284-four-divisors) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/red-rohit01/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/red-rohit01/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/red-rohit01/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1156,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/red-rohit01/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/red-rohit01/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1223-graph-connectivity-with-threshold](https://github.com/red-rohit01/LeetCode/tree/master/1223-graph-connectivity-with-threshold) |
+| [1284-four-divisors](https://github.com/red-rohit01/LeetCode/tree/master/1284-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/red-rohit01/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/red-rohit01/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/red-rohit01/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
