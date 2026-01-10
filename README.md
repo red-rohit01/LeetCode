@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/red-rohit01/LeetCode/tree/master/0518-coin-change-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/red-rohit01/LeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/red-rohit01/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/red-rohit01/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/red-rohit01/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/red-rohit01/LeetCode/tree/master/0867-new-21-game) |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/red-rohit01/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/red-rohit01/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0691-stickers-to-spell-word](https://github.com/red-rohit01/LeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/red-rohit01/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0757-pyramid-transition-matrix](https://github.com/red-rohit01/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/red-rohit01/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/red-rohit01/LeetCode/tree/master/0812-rotate-string) |
