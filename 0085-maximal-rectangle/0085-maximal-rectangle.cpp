@@ -58,7 +58,7 @@ public:
 
             for(int j=0;j<n;++j) 
             {
-                if(row[j]=='1') left[j]=max(left[j], curLeft);   // We are taking max here because considering the example 1: for row 1'th and 2'nd even though 2nd row is having all ones starting from left but still the heigh for 2nd column would be determined by the 1'st row value so take maximum
+                if(row[j]=='1') left[j]=max(left[j], curLeft);   // We are taking max here because considering the example 1: for row 1'th and 2'nd even though 2nd row is having all ones starting from left but still the height for 2nd column would be determined by the 1'st row value so take maximum
                 else 
                 {
                     left[j]=0; // we've intentionally set this value to '0' so that while taking the max for further rows it should not create any hurdle. If I comment this line It would give WA. And also if the height is '0' then the furthest point on left which follows this height is '0'th index
@@ -81,7 +81,6 @@ public:
                 // cout<<left[j]<<" "<<right[j]<<" - ";
                 maxArea=max(maxArea, (right[j]-left[j]+1)*height[j]);
             }
-            // cout<<"\n";
         }
         return maxArea;
     }
