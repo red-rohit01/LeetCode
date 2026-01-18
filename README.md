@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/red-rohit01/LeetCode/tree/master/1284-four-divisors) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/red-rohit01/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/red-rohit01/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1311-largest-magic-square](https://github.com/red-rohit01/LeetCode/tree/master/1311-largest-magic-square) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/red-rohit01/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/red-rohit01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/red-rohit01/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/red-rohit01/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/red-rohit01/LeetCode/tree/master/1022-unique-paths-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/red-rohit01/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1311-largest-magic-square](https://github.com/red-rohit01/LeetCode/tree/master/1311-largest-magic-square) |
 | [1396-count-servers-that-communicate](https://github.com/red-rohit01/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/red-rohit01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1380,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/red-rohit01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1184-car-pooling](https://github.com/red-rohit01/LeetCode/tree/master/1184-car-pooling) |
+| [1311-largest-magic-square](https://github.com/red-rohit01/LeetCode/tree/master/1311-largest-magic-square) |
 | [1477-product-of-the-last-k-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/red-rohit01/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/red-rohit01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
