@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/red-rohit01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/red-rohit01/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/red-rohit01/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/red-rohit01/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/red-rohit01/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/red-rohit01/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -1120,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/red-rohit01/LeetCode/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/red-rohit01/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/red-rohit01/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
