@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/red-rohit01/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/red-rohit01/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/red-rohit01/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/red-rohit01/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/red-rohit01/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1122,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/red-rohit01/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/red-rohit01/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
