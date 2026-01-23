@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/red-rohit01/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/red-rohit01/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3763-separate-squares-i](https://github.com/red-rohit01/LeetCode/tree/master/3763-separate-squares-i) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3775-separate-squares-ii](https://github.com/red-rohit01/LeetCode/tree/master/3775-separate-squares-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/red-rohit01/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-count-special-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/3699-count-special-subsequences) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/red-rohit01/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/red-rohit01/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/red-rohit01/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -1385,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/red-rohit01/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/red-rohit01/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/red-rohit01/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/red-rohit01/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
@@ -1466,6 +1469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3721-count-mentions-per-user](https://github.com/red-rohit01/LeetCode/tree/master/3721-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/red-rohit01/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/red-rohit01/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -1607,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/red-rohit01/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/red-rohit01/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/red-rohit01/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/red-rohit01/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -1849,6 +1854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/red-rohit01/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/red-rohit01/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/red-rohit01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Probability and Statistics
 |  |
@@ -1881,6 +1887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/red-rohit01/LeetCode/tree/master/0146-lru-cache) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Biconnected Component
 |  |
