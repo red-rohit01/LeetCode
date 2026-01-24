@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/red-rohit01/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1962-single-threaded-cpu](https://github.com/red-rohit01/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1972-rotating-the-box](https://github.com/red-rohit01/LeetCode/tree/master/1972-rotating-the-box) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/red-rohit01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/red-rohit01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2023-design-movie-rental-system](https://github.com/red-rohit01/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2047-find-a-peak-element-ii](https://github.com/red-rohit01/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/red-rohit01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/red-rohit01/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/red-rohit01/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/red-rohit01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/red-rohit01/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/red-rohit01/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/red-rohit01/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/red-rohit01/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/red-rohit01/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1962-single-threaded-cpu](https://github.com/red-rohit01/LeetCode/tree/master/1962-single-threaded-cpu) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/red-rohit01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/red-rohit01/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/red-rohit01/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/red-rohit01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1069,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/red-rohit01/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/red-rohit01/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/red-rohit01/LeetCode/tree/master/1972-rotating-the-box) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/red-rohit01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/red-rohit01/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/red-rohit01/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
