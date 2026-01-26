@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // We could have solved it with Binary Search but here let's solve it by prefix sum
     int minMoves(vector<int>& nums, int limit) {
         int n=nums.size();
         map<int,int> allsums;  //Count all sums 
