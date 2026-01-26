@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/red-rohit01/LeetCode/tree/master/1284-four-divisors) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/red-rohit01/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/red-rohit01/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1306-minimum-absolute-difference](https://github.com/red-rohit01/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/red-rohit01/LeetCode/tree/master/1311-largest-magic-square) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/red-rohit01/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/red-rohit01/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/red-rohit01/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/red-rohit01/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/red-rohit01/LeetCode/tree/master/1184-car-pooling) |
+| [1306-minimum-absolute-difference](https://github.com/red-rohit01/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/red-rohit01/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/red-rohit01/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/red-rohit01/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
