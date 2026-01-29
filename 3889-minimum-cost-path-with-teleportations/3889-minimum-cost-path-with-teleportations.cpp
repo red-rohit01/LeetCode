@@ -9,7 +9,7 @@ public:
             for (int v : row) maxVal=max(maxVal, v);
 
         vector<vector<int>> dp(n, vector<int>(m, INT_MAX));    // dp[i][j]=min cost to reach (n-1,m-1) from (i,j)
-        vector<int> temp(maxVal+1, INT_MAX);       // temp[v] == min cost starting from any cell with value 'v'
+        vector<int> temp(maxVal+1, INT_MAX); // temp[v] == min cost starting from any cell with value 'v' to reach the last cell
         vector<int> best(maxVal+1);
 
         temp[grid[n-1][m-1]]=0;
@@ -21,7 +21,7 @@ public:
             {
                 if(i == n-1 && j == m-1) continue;
 
-                int down=(i+1<n && dp[i + 1][j] != INT_MAX)?dp[i+1][j]+grid[i + 1][j] :INT_MAX;
+                int down=(i+1<n && dp[i+1][j]!=INT_MAX)?dp[i+1][j]+grid[i+1][j]:INT_MAX;
 
                 int right=(j+1<m && dp[i][j+1]!=INT_MAX)?dp[i][j+1]+grid[i][j+1]:INT_MAX;
 
@@ -31,26 +31,29 @@ public:
             }
         }
 
-        for(int x=0;x<k;x++) 
+        for(int x=0;x<k;x++) // 'k' times teleportation
         {
             best[0]=temp[0];
-            for (int v = 1; v <= maxVal; v++)
-                best[v] = min(best[v - 1], temp[v]);
-
-            for(int i = n - 1; i >= 0; i--) 
+            //cout<<best[0]<<" ";
+            for (int v=1;v<=maxVal;v++) 
             {
-                for(int j = m - 1; j >= 0; j--) 
+                best[v]=min(best[v-1],temp[v]); 
+                //cout<<best[v]<<" ";
+            }
+            //cout<<"\n";
+
+            for(int i=n-1;i>=0;--i) 
+            {
+                for(int j=m-1;j>=0;--j) 
                 {
-                    if(i ==n - 1 && j == m - 1) continue;
+                    if(i==(n-1) && j==(m-1)) continue;
 
-                    int down = (i + 1 < n && dp[i + 1][j] != INT_MAX)
-                        ? dp[i + 1][j] + grid[i + 1][j]
-                        : INT_MAX;
-                    int right = (j + 1 < m && dp[i][j + 1] != INT_MAX)
-                        ? dp[i][j + 1] + grid[i][j + 1]
-                        : INT_MAX;
+                    int down=(i+1<n && dp[i+1][j]!=INT_MAX)?dp[i+1][j]+grid[i+1][j]:INT_MAX;
 
-                    int walkCost = min(down, right);
+                    int right=(j+1<m && dp[i][j+1]!=INT_MAX)?dp[i][j+1]+grid[i][j+1]:INT_MAX;
+
+                    int walkCost=min(down, right);
+
                     int teleportCost=best[grid[i][j]];
 
                     dp[i][j]=min(walkCost, teleportCost);
