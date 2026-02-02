@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/red-rohit01/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/red-rohit01/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/red-rohit01/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/red-rohit01/LeetCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/red-rohit01/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/red-rohit01/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/red-rohit01/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/red-rohit01/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/red-rohit01/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/red-rohit01/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/red-rohit01/LeetCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/red-rohit01/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/red-rohit01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/red-rohit01/LeetCode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
@@ -1179,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/red-rohit01/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/red-rohit01/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/red-rohit01/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/red-rohit01/LeetCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/red-rohit01/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/red-rohit01/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/red-rohit01/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1400,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/red-rohit01/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/red-rohit01/LeetCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/red-rohit01/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/red-rohit01/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
