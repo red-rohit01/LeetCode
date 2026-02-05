@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/red-rohit01/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/red-rohit01/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
+| [3651-transformed-array](https://github.com/red-rohit01/LeetCode/tree/master/3651-transformed-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/red-rohit01/LeetCode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3654-minimum-array-sum](https://github.com/red-rohit01/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/red-rohit01/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -1495,6 +1496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/red-rohit01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/red-rohit01/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3651-transformed-array](https://github.com/red-rohit01/LeetCode/tree/master/3651-transformed-array) |
 | [3721-count-mentions-per-user](https://github.com/red-rohit01/LeetCode/tree/master/3721-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
