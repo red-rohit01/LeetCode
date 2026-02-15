@@ -897,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/red-rohit01/LeetCode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/red-rohit01/LeetCode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/red-rohit01/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/red-rohit01/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/red-rohit01/LeetCode/tree/master/0139-word-break) |
@@ -1137,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/red-rohit01/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/red-rohit01/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/red-rohit01/LeetCode/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -1222,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/red-rohit01/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/red-rohit01/LeetCode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/red-rohit01/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/red-rohit01/LeetCode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/red-rohit01/LeetCode/tree/master/0279-perfect-squares) |
@@ -1496,6 +1499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/red-rohit01/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/red-rohit01/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1184-car-pooling](https://github.com/red-rohit01/LeetCode/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/red-rohit01/LeetCode/tree/master/1642-water-bottles) |
