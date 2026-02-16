@@ -1139,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/red-rohit01/LeetCode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/red-rohit01/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/red-rohit01/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/red-rohit01/LeetCode/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -1634,6 +1635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/red-rohit01/LeetCode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/red-rohit01/LeetCode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/red-rohit01/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/red-rohit01/LeetCode/tree/master/0347-top-k-frequent-elements) |
