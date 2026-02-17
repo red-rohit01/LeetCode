@@ -1142,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/red-rohit01/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/red-rohit01/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/red-rohit01/LeetCode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/red-rohit01/LeetCode/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0691-stickers-to-spell-word](https://github.com/red-rohit01/LeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0757-pyramid-transition-matrix](https://github.com/red-rohit01/LeetCode/tree/master/0757-pyramid-transition-matrix) |
@@ -1780,6 +1781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/red-rohit01/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/red-rohit01/LeetCode/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/red-rohit01/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/red-rohit01/LeetCode/tree/master/0494-target-sum) |
 | [0691-stickers-to-spell-word](https://github.com/red-rohit01/LeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0757-pyramid-transition-matrix](https://github.com/red-rohit01/LeetCode/tree/master/0757-pyramid-transition-matrix) |
