@@ -1145,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/red-rohit01/LeetCode/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0691-stickers-to-spell-word](https://github.com/red-rohit01/LeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0693-binary-number-with-alternating-bits](https://github.com/red-rohit01/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/red-rohit01/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1022-unique-paths-iii](https://github.com/red-rohit01/LeetCode/tree/master/1022-unique-paths-iii) |
