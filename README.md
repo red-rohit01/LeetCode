@@ -909,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/red-rohit01/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0474-ones-and-zeroes](https://github.com/red-rohit01/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0691-stickers-to-spell-word](https://github.com/red-rohit01/LeetCode/tree/master/0691-stickers-to-spell-word) |
+| [0696-count-binary-substrings](https://github.com/red-rohit01/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/red-rohit01/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0757-pyramid-transition-matrix](https://github.com/red-rohit01/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/red-rohit01/LeetCode/tree/master/0768-partition-labels) |
@@ -1104,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/red-rohit01/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/red-rohit01/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/red-rohit01/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/red-rohit01/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/red-rohit01/LeetCode/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/red-rohit01/LeetCode/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/red-rohit01/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
