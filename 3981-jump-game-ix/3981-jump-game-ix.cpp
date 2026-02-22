@@ -1,5 +1,10 @@
 class Solution {
 public:
+    // Think of the array as a directed graph where edges represent valid jumps.
+    // The maximum reachable value from i is the maximum value in the respective component.
+    // You can find connected ranges by looking at prefix maximums and suffix minimums, a 
+    // cut happens where all values to the left are <= all values to the right. 
+
     vector<int> maxValue(vector<int>& nums) {
         int n=nums.size();
         vector<int>pre(n),post(n);
@@ -11,7 +16,7 @@ public:
             post[n-i-1]=min(post[n-i],nums[n-i-1]);
         }
 
-        vector<int>ind;
+        vector<int>ind;   // To store the cuts 
         for(int i=0;i<n-1;++i)
         {
             if(pre[i]<=post[i+1]) ind.push_back(i);
