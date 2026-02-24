@@ -1026,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/red-rohit01/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/red-rohit01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/red-rohit01/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/red-rohit01/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/red-rohit01/LeetCode/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/red-rohit01/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/red-rohit01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/red-rohit01/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
@@ -1754,6 +1756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/red-rohit01/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/red-rohit01/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/red-rohit01/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/red-rohit01/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
