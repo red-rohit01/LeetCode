@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // he algorithm explores a pruned recursion tree (never builds invalid sequences).
+    // The algorithm explores a pruned recursion tree (never builds invalid sequences).
     // It generates exactly all valid combinations → optimal.
     // Total time = (# of valid combinations) × (cost to build each string)
 
