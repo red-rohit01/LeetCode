@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/red-rohit01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/red-rohit01/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/red-rohit01/LeetCode/tree/master/1656-count-good-triplets) |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/red-rohit01/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/red-rohit01/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/red-rohit01/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/red-rohit01/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/red-rohit01/LeetCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/red-rohit01/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/red-rohit01/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1876-map-of-highest-peak](https://github.com/red-rohit01/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/red-rohit01/LeetCode/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/red-rohit01/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/red-rohit01/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/red-rohit01/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/red-rohit01/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/red-rohit01/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/red-rohit01/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/red-rohit01/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
