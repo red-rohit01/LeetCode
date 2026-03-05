@@ -956,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/red-rohit01/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/red-rohit01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/red-rohit01/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/red-rohit01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/red-rohit01/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/red-rohit01/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
