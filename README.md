@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/red-rohit01/LeetCode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/red-rohit01/LeetCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/red-rohit01/LeetCode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/red-rohit01/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/red-rohit01/LeetCode/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3460-count-the-number-of-inversions](https://github.com/red-rohit01/LeetCode/tree/master/3460-count-the-number-of-inversions) |
@@ -1511,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/red-rohit01/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/red-rohit01/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/red-rohit01/LeetCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/red-rohit01/LeetCode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3427-special-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/red-rohit01/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/red-rohit01/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
