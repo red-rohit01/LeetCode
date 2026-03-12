@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/red-rohit01/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/red-rohit01/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/red-rohit01/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/red-rohit01/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Hash Table
 |  |
 | ------- |
@@ -822,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/red-rohit01/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/red-rohit01/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/red-rohit01/LeetCode/tree/master/3827-implement-router) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/red-rohit01/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
 | ------- |
@@ -2031,6 +2033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/red-rohit01/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/red-rohit01/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/red-rohit01/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/red-rohit01/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Concurrency
 |  |
 | ------- |
@@ -2038,5 +2041,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/red-rohit01/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/red-rohit01/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/red-rohit01/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
