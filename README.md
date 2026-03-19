@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-find-maximum-removals-from-source-string](https://github.com/red-rohit01/LeetCode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/red-rohit01/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/red-rohit01/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/red-rohit01/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/red-rohit01/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/red-rohit01/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/red-rohit01/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/red-rohit01/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/red-rohit01/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/red-rohit01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/red-rohit01/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/red-rohit01/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/red-rohit01/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/red-rohit01/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1537,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/red-rohit01/LeetCode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3427-special-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/red-rohit01/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/red-rohit01/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3618-find-the-original-typed-string-ii](https://github.com/red-rohit01/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/red-rohit01/LeetCode/tree/master/3639-zero-array-transformation-i) |
