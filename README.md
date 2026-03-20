@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/red-rohit01/LeetCode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/red-rohit01/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/red-rohit01/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/red-rohit01/LeetCode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3885-count-special-triplets](https://github.com/red-rohit01/LeetCode/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/red-rohit01/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/red-rohit01/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/red-rohit01/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/red-rohit01/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/red-rohit01/LeetCode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/red-rohit01/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Greedy
 |  |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-count-mentions-per-user](https://github.com/red-rohit01/LeetCode/tree/master/3721-count-mentions-per-user) |
 | [3748-sort-matrix-by-diagonals](https://github.com/red-rohit01/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/red-rohit01/LeetCode/tree/master/3819-count-covered-buildings) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/red-rohit01/LeetCode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3934-coupon-code-validator](https://github.com/red-rohit01/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3958-minimum-removals-to-balance-array](https://github.com/red-rohit01/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 ## String
