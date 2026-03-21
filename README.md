@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3952-trionic-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/red-rohit01/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
+| [3973-flip-square-submatrix-vertically](https://github.com/red-rohit01/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/red-rohit01/LeetCode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3981-jump-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/3981-jump-game-ix) |
 | [4045-longest-balanced-subarray-i](https://github.com/red-rohit01/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/red-rohit01/LeetCode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/red-rohit01/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
+| [3973-flip-square-submatrix-vertically](https://github.com/red-rohit01/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
 | ------- |
@@ -1173,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/red-rohit01/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/red-rohit01/LeetCode/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/red-rohit01/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3973-flip-square-submatrix-vertically](https://github.com/red-rohit01/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 ## String Matching
 |  |
 | ------- |
