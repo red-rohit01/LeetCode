@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/red-rohit01/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/red-rohit01/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3031-construct-product-matrix](https://github.com/red-rohit01/LeetCode/tree/master/3031-construct-product-matrix) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/red-rohit01/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/red-rohit01/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/red-rohit01/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3031-construct-product-matrix](https://github.com/red-rohit01/LeetCode/tree/master/3031-construct-product-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/red-rohit01/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/red-rohit01/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/red-rohit01/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1543,6 +1545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/red-rohit01/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/red-rohit01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3031-construct-product-matrix](https://github.com/red-rohit01/LeetCode/tree/master/3031-construct-product-matrix) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/red-rohit01/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/red-rohit01/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/red-rohit01/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
