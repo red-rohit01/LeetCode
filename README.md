@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/red-rohit01/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/red-rohit01/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/red-rohit01/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/red-rohit01/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/red-rohit01/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/red-rohit01/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/red-rohit01/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/red-rohit01/LeetCode/tree/master/3031-construct-product-matrix) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/red-rohit01/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/red-rohit01/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/red-rohit01/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/red-rohit01/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1363,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3112-count-valid-paths-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/red-rohit01/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/red-rohit01/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/red-rohit01/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/red-rohit01/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/red-rohit01/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/red-rohit01/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -1610,6 +1613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/red-rohit01/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/red-rohit01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3215-matrix-similarity-after-cyclic-shifts](https://github.com/red-rohit01/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/red-rohit01/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/red-rohit01/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/red-rohit01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
