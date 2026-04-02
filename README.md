@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3654-minimum-array-sum](https://github.com/red-rohit01/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/red-rohit01/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/red-rohit01/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/red-rohit01/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/red-rohit01/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3686-count-beautiful-splits-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/3686-count-beautiful-splits-in-an-array) |
 | [3699-count-special-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/3699-count-special-subsequences) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-minimum-time-to-break-locks-i](https://github.com/red-rohit01/LeetCode/tree/master/3649-minimum-time-to-break-locks-i) |
 | [3654-minimum-array-sum](https://github.com/red-rohit01/LeetCode/tree/master/3654-minimum-array-sum) |
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/red-rohit01/LeetCode/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/red-rohit01/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3686-count-beautiful-splits-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/3686-count-beautiful-splits-in-an-array) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/red-rohit01/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/red-rohit01/LeetCode/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/red-rohit01/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/red-rohit01/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/red-rohit01/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/red-rohit01/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/red-rohit01/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/red-rohit01/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
