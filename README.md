@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3973-flip-square-submatrix-vertically](https://github.com/red-rohit01/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/red-rohit01/LeetCode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3981-jump-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/3981-jump-game-ix) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/red-rohit01/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4045-longest-balanced-subarray-i](https://github.com/red-rohit01/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/red-rohit01/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 ## Dynamic Programming
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/red-rohit01/LeetCode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3956-trionic-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3956-trionic-array-ii) |
 | [3981-jump-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/3981-jump-game-ix) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/red-rohit01/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
 | ------- |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/red-rohit01/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/red-rohit01/LeetCode/tree/master/3827-implement-router) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/red-rohit01/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/red-rohit01/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
 | ------- |
@@ -950,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/red-rohit01/LeetCode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3934-coupon-code-validator](https://github.com/red-rohit01/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3958-minimum-removals-to-balance-array](https://github.com/red-rohit01/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/red-rohit01/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## String
 |  |
 | ------- |
