@@ -1629,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/red-rohit01/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/red-rohit01/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/red-rohit01/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2178-walking-robot-simulation-ii](https://github.com/red-rohit01/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/red-rohit01/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2232-adding-spaces-to-a-string](https://github.com/red-rohit01/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/red-rohit01/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1996,6 +1997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1728-fancy-sequence](https://github.com/red-rohit01/LeetCode/tree/master/1728-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/red-rohit01/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2178-walking-robot-simulation-ii](https://github.com/red-rohit01/LeetCode/tree/master/2178-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/red-rohit01/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/red-rohit01/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
