@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3956-trionic-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/red-rohit01/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/red-rohit01/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/red-rohit01/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/red-rohit01/LeetCode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3981-jump-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/red-rohit01/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
@@ -1657,6 +1658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/red-rohit01/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/red-rohit01/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/red-rohit01/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1772,6 +1774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/red-rohit01/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/red-rohit01/LeetCode/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/red-rohit01/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/red-rohit01/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 ## Binary Indexed Tree
