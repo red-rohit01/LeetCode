@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/red-rohit01/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2592-minimum-total-cost-to-make-arrays-unequal](https://github.com/red-rohit01/LeetCode/tree/master/2592-minimum-total-cost-to-make-arrays-unequal) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/red-rohit01/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2601-number-of-great-partitions](https://github.com/red-rohit01/LeetCode/tree/master/2601-number-of-great-partitions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/red-rohit01/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/red-rohit01/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -1052,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/red-rohit01/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/red-rohit01/LeetCode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/red-rohit01/LeetCode/tree/master/2580-circular-sentence) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/red-rohit01/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/red-rohit01/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/red-rohit01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2708-find-the-string-with-lcp](https://github.com/red-rohit01/LeetCode/tree/master/2708-find-the-string-with-lcp) |
