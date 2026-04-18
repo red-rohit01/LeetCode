@@ -1441,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3897-count-number-of-trapezoids-ii](https://github.com/red-rohit01/LeetCode/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/red-rohit01/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/red-rohit01/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4168-mirror-distance-of-an-integer](https://github.com/red-rohit01/LeetCode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Number Theory
 |  |
 | ------- |
