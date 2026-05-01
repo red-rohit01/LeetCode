@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/red-rohit01/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/red-rohit01/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/red-rohit01/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/red-rohit01/LeetCode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/red-rohit01/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/red-rohit01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/red-rohit01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/red-rohit01/LeetCode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/red-rohit01/LeetCode/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/red-rohit01/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/red-rohit01/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/red-rohit01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/red-rohit01/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/red-rohit01/LeetCode/tree/master/0494-target-sum) |
@@ -1375,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/red-rohit01/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/red-rohit01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/red-rohit01/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/red-rohit01/LeetCode/tree/master/0396-rotate-function) |
 | [0670-maximum-swap](https://github.com/red-rohit01/LeetCode/tree/master/0670-maximum-swap) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/red-rohit01/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/red-rohit01/LeetCode/tree/master/0797-rabbits-in-forest) |
