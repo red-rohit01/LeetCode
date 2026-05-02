@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/red-rohit01/LeetCode/tree/master/0691-stickers-to-spell-word) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/red-rohit01/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0804-rotated-digits](https://github.com/red-rohit01/LeetCode/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/red-rohit01/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0815-champagne-tower](https://github.com/red-rohit01/LeetCode/tree/master/0815-champagne-tower) |
 | [0826-soup-servings](https://github.com/red-rohit01/LeetCode/tree/master/0826-soup-servings) |
@@ -1381,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/red-rohit01/LeetCode/tree/master/0670-maximum-swap) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/red-rohit01/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/red-rohit01/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0804-rotated-digits](https://github.com/red-rohit01/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/red-rohit01/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/red-rohit01/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/red-rohit01/LeetCode/tree/master/0867-new-21-game) |
