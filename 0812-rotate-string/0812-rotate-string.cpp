@@ -7,6 +7,7 @@ public:
         int orig=s.size();
         s=s+s;
         int n=s.size();
+        if(goal.size()!=orig) return false;
         for(int i=1;i<=(n-orig);++i)
         {
             if(s[i]==goal[0])
