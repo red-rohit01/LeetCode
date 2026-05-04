@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/red-rohit01/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/red-rohit01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/red-rohit01/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/red-rohit01/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/red-rohit01/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/red-rohit01/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/red-rohit01/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/red-rohit01/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/red-rohit01/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/red-rohit01/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/red-rohit01/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/red-rohit01/LeetCode/tree/master/0221-maximal-square) |
@@ -1369,6 +1371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/red-rohit01/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/red-rohit01/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/red-rohit01/LeetCode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/red-rohit01/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
