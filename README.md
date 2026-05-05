@@ -1228,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/red-rohit01/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/red-rohit01/LeetCode/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/red-rohit01/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/red-rohit01/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/red-rohit01/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/red-rohit01/LeetCode/tree/master/0148-sort-list) |
@@ -2123,6 +2124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/red-rohit01/LeetCode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/red-rohit01/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/red-rohit01/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/red-rohit01/LeetCode/tree/master/0146-lru-cache) |
