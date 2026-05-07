@@ -4,7 +4,6 @@ public:
     // The maximum reachable value from i is the maximum value in the respective component.
     // You can find connected ranges by looking at prefix maximums and suffix minimums, a 
     // cut happens where all values to the left are <= all values to the right. 
-
     vector<int> maxValue(vector<int>& nums) {
         int n=nums.size();
         vector<int>pre(n),post(n);
