@@ -27,6 +27,8 @@ public:
     // In each line t, for any two numbers t[i] and t[j] (i < j), t[i] must have more 1s than t[j]. So the length of each line will 
     // not exceed 32. So if we remove duplicate numbers, the complexity would not be very large
     // TC: O(32*N)
+    // Rolling DP: Idea is to have DP[i] contains a set for all the values for subarrays ending at index 'i'. so, that we can 
+    // create this value for the 'i+1'th index with the help of previous value
     int subarrayBitwiseORs(vector<int>& arr) {
         unordered_set<int>ans;
         set<int>prev;
