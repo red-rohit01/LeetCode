@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/red-rohit01/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/red-rohit01/LeetCode/tree/master/2846-robot-collisions) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/red-rohit01/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/red-rohit01/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-find-the-string-with-lcp](https://github.com/red-rohit01/LeetCode/tree/master/2708-find-the-string-with-lcp) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/red-rohit01/LeetCode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/red-rohit01/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/red-rohit01/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/red-rohit01/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
