@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/red-rohit01/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/red-rohit01/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/red-rohit01/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/red-rohit01/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/red-rohit01/LeetCode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/red-rohit01/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/red-rohit01/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/red-rohit01/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/red-rohit01/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/red-rohit01/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/red-rohit01/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/red-rohit01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/red-rohit01/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/red-rohit01/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/red-rohit01/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/red-rohit01/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1784-minimum-initial-energy-to-finish-tasks](https://github.com/red-rohit01/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/red-rohit01/LeetCode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/red-rohit01/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1962-single-threaded-cpu](https://github.com/red-rohit01/LeetCode/tree/master/1962-single-threaded-cpu) |
