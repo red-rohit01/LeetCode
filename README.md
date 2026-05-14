@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/red-rohit01/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/red-rohit01/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2892-check-if-array-is-good](https://github.com/red-rohit01/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/red-rohit01/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3031-construct-product-matrix](https://github.com/red-rohit01/LeetCode/tree/master/3031-construct-product-matrix) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/red-rohit01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/red-rohit01/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2892-check-if-array-is-good](https://github.com/red-rohit01/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/red-rohit01/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/red-rohit01/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/red-rohit01/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/red-rohit01/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/red-rohit01/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2892-check-if-array-is-good](https://github.com/red-rohit01/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/red-rohit01/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/red-rohit01/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/red-rohit01/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
