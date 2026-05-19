@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/red-rohit01/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/red-rohit01/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2634-minimum-common-value](https://github.com/red-rohit01/LeetCode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/red-rohit01/LeetCode/tree/master/2657-minimum-time-to-complete-all-tasks) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2592-minimum-total-cost-to-make-arrays-unequal](https://github.com/red-rohit01/LeetCode/tree/master/2592-minimum-total-cost-to-make-arrays-unequal) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/red-rohit01/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2634-minimum-common-value](https://github.com/red-rohit01/LeetCode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/red-rohit01/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/red-rohit01/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/red-rohit01/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/red-rohit01/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2634-minimum-common-value](https://github.com/red-rohit01/LeetCode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/red-rohit01/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/red-rohit01/LeetCode/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2665-minimum-time-to-repair-cars](https://github.com/red-rohit01/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -1275,6 +1278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/red-rohit01/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/red-rohit01/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2634-minimum-common-value](https://github.com/red-rohit01/LeetCode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/red-rohit01/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/red-rohit01/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
