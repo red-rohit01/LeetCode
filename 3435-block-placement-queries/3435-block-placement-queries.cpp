@@ -1,5 +1,15 @@
 class Solution {
 public:
+    // Track Obstacles: Use a TreeSet to dynamically maintain obstacle locations in sorted order.
+
+    // Track Max Gaps: Use a Segment Tree where index i stores the size of the gap ending at obstacle i.
+
+    // Insert Obstacle ([1, x]): Find adjacent obstacles prev and next using the TreeSet. Split the old interval by 
+    // updating the Segment Tree with two new gap lengths: x - prev and next - x.
+
+    // Query Block ([2, x, sz]): Find the closest obstacle prev to the left of x. Query the Segment Tree for the maximum gap 
+    // in [0,prev], and check the leftover gap x - prev. Return true if either gap ≥ sz.
+
     int mxVal = 50000;
     vector<int> tree;
 
