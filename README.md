@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/red-rohit01/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2708-find-the-string-with-lcp](https://github.com/red-rohit01/LeetCode/tree/master/2708-find-the-string-with-lcp) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2714-left-and-right-sum-differences](https://github.com/red-rohit01/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2716-prime-subtraction-operation](https://github.com/red-rohit01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2721-sum-of-distances](https://github.com/red-rohit01/LeetCode/tree/master/2721-sum-of-distances) |
@@ -1704,6 +1705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/red-rohit01/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/red-rohit01/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/red-rohit01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2714-left-and-right-sum-differences](https://github.com/red-rohit01/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2721-sum-of-distances](https://github.com/red-rohit01/LeetCode/tree/master/2721-sum-of-distances) |
 | [2915-count-of-interesting-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3031-construct-product-matrix](https://github.com/red-rohit01/LeetCode/tree/master/3031-construct-product-matrix) |
