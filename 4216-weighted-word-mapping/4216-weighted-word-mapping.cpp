@@ -10,8 +10,7 @@ public:
             int cnt=0;
             for(int j=0;j<len;++j) cnt+=weights[curr[j]-'a'];
 
-            int ind=cnt%26;
-            ans+=static_cast<char>('z'-ind);
+            ans += ('a' + (25 - (cnt % 26)));
         }
         return ans;
     }
