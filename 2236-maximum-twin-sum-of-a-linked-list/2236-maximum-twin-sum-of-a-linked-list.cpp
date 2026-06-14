@@ -10,6 +10,7 @@
  */
 class Solution {
 public:
+    // The idea is to reverse the first half of the linkedlist for the direct comparison
     int pairSum(ListNode* head) {
         ListNode* slow=head;
         ListNode* fast=head;
