@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-minimum-cost-path-with-teleportations](https://github.com/red-rohit01/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/red-rohit01/LeetCode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3956-trionic-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3956-trionic-array-ii) |
+| [3962-number-of-zigzag-arrays-i](https://github.com/red-rohit01/LeetCode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3981-jump-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/red-rohit01/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/3986-maximum-path-score-in-a-grid) |
@@ -1765,6 +1766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/red-rohit01/LeetCode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/red-rohit01/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/red-rohit01/LeetCode/tree/master/3850-equal-sum-grid-partition-ii) |
+| [3962-number-of-zigzag-arrays-i](https://github.com/red-rohit01/LeetCode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3980-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/red-rohit01/LeetCode/tree/master/3980-best-time-to-buy-and-sell-stock-using-strategy) |
 | [4045-longest-balanced-subarray-i](https://github.com/red-rohit01/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/red-rohit01/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
