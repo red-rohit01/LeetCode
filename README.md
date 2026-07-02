@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/red-rohit01/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3551-maximum-xor-score-subarray-queries](https://github.com/red-rohit01/LeetCode/tree/master/3551-maximum-xor-score-subarray-queries) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/red-rohit01/LeetCode/tree/master/3576-find-subtree-sizes-after-changes) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/red-rohit01/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/red-rohit01/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/red-rohit01/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3470-maximum-score-from-grid-operations](https://github.com/red-rohit01/LeetCode/tree/master/3470-maximum-score-from-grid-operations) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/red-rohit01/LeetCode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/red-rohit01/LeetCode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/red-rohit01/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/red-rohit01/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1718,6 +1720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/red-rohit01/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/red-rohit01/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/red-rohit01/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/red-rohit01/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/red-rohit01/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1891,6 +1894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-find-the-safest-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/red-rohit01/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/red-rohit01/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/red-rohit01/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/red-rohit01/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/red-rohit01/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -1934,6 +1938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/red-rohit01/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/red-rohit01/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/red-rohit01/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/red-rohit01/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/red-rohit01/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -2335,6 +2340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/red-rohit01/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/red-rohit01/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/red-rohit01/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/red-rohit01/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Concurrency
