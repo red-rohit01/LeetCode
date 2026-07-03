@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-minimum-cost-path-with-teleportations](https://github.com/red-rohit01/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/red-rohit01/LeetCode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/red-rohit01/LeetCode/tree/master/3897-count-number-of-trapezoids-ii) |
+| [3919-network-recovery-pathways](https://github.com/red-rohit01/LeetCode/tree/master/3919-network-recovery-pathways) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/red-rohit01/LeetCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3934-coupon-code-validator](https://github.com/red-rohit01/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3952-trionic-array-i) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/red-rohit01/LeetCode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/red-rohit01/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/red-rohit01/LeetCode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3919-network-recovery-pathways](https://github.com/red-rohit01/LeetCode/tree/master/3919-network-recovery-pathways) |
 | [3956-trionic-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3956-trionic-array-ii) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/red-rohit01/LeetCode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/red-rohit01/LeetCode/tree/master/3964-number-of-zigzag-arrays-ii) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/red-rohit01/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/red-rohit01/LeetCode/tree/master/3827-implement-router) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/red-rohit01/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [3919-network-recovery-pathways](https://github.com/red-rohit01/LeetCode/tree/master/3919-network-recovery-pathways) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/red-rohit01/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/red-rohit01/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/red-rohit01/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
@@ -1730,6 +1733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/red-rohit01/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/red-rohit01/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+| [3919-network-recovery-pathways](https://github.com/red-rohit01/LeetCode/tree/master/3919-network-recovery-pathways) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/red-rohit01/LeetCode/tree/master/4007-maximum-total-subarray-value-ii) |
 ## Prefix Sum
 |  |
@@ -1942,6 +1946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/red-rohit01/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/red-rohit01/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/red-rohit01/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+| [3919-network-recovery-pathways](https://github.com/red-rohit01/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -2205,6 +2210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/red-rohit01/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/red-rohit01/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/red-rohit01/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3919-network-recovery-pathways](https://github.com/red-rohit01/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Design
 |  |
 | ------- |
@@ -2343,6 +2349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/red-rohit01/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/red-rohit01/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [3919-network-recovery-pathways](https://github.com/red-rohit01/LeetCode/tree/master/3919-network-recovery-pathways) |
 ## Concurrency
 |  |
 | ------- |
