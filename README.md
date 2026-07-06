@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/red-rohit01/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/red-rohit01/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1184-car-pooling](https://github.com/red-rohit01/LeetCode/tree/master/1184-car-pooling) |
+| [1222-remove-covered-intervals](https://github.com/red-rohit01/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1223-graph-connectivity-with-threshold](https://github.com/red-rohit01/LeetCode/tree/master/1223-graph-connectivity-with-threshold) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/red-rohit01/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1234-number-of-paths-with-max-score](https://github.com/red-rohit01/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/red-rohit01/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/red-rohit01/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1184-car-pooling](https://github.com/red-rohit01/LeetCode/tree/master/1184-car-pooling) |
+| [1222-remove-covered-intervals](https://github.com/red-rohit01/LeetCode/tree/master/1222-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/red-rohit01/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/red-rohit01/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/red-rohit01/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
