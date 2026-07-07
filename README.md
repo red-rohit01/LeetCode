@@ -1604,6 +1604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/red-rohit01/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/red-rohit01/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/red-rohit01/LeetCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/red-rohit01/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/red-rohit01/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/red-rohit01/LeetCode/tree/master/4168-mirror-distance-of-an-integer) |
 ## Number Theory
