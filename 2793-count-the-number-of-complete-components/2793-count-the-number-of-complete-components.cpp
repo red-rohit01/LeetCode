@@ -9,10 +9,7 @@ public:
         {
             if(x!=p)
             {
-                if(vis[x]==0)
-                {
-                    dfs(adj,n,x,vis,nodes,st);
-                }
+                if(vis[x]==0) dfs(adj,n,x,vis,nodes,st);
             }
         }
     }
