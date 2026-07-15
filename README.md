@@ -1616,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/red-rohit01/LeetCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/red-rohit01/LeetCode/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/red-rohit01/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/red-rohit01/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/red-rohit01/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4128-total-waviness-of-numbers-in-range-ii](https://github.com/red-rohit01/LeetCode/tree/master/4128-total-waviness-of-numbers-in-range-ii) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/red-rohit01/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -1640,6 +1641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/red-rohit01/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/red-rohit01/LeetCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/red-rohit01/LeetCode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
 | ------- |
