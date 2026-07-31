@@ -751,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/red-rohit01/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/red-rohit01/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/red-rohit01/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/red-rohit01/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/red-rohit01/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3334-apple-redistribution-into-boxes](https://github.com/red-rohit01/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/red-rohit01/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/red-rohit01/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/red-rohit01/LeetCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/red-rohit01/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/red-rohit01/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/red-rohit01/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/red-rohit01/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/red-rohit01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1092,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/red-rohit01/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/red-rohit01/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/red-rohit01/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/red-rohit01/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/red-rohit01/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/red-rohit01/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/red-rohit01/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1230,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/red-rohit01/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/red-rohit01/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/red-rohit01/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/red-rohit01/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/red-rohit01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/red-rohit01/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/red-rohit01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -2138,6 +2142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-furthest-point-from-origin](https://github.com/red-rohit01/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/red-rohit01/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/red-rohit01/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/red-rohit01/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/red-rohit01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/red-rohit01/LeetCode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/red-rohit01/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
