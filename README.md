@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/red-rohit01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/red-rohit01/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/red-rohit01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/red-rohit01/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/red-rohit01/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/red-rohit01/LeetCode/tree/master/0518-coin-change-ii) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/red-rohit01/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/red-rohit01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/red-rohit01/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/red-rohit01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/red-rohit01/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/red-rohit01/LeetCode/tree/master/0518-coin-change-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -1547,6 +1549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/red-rohit01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/red-rohit01/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/red-rohit01/LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/red-rohit01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/red-rohit01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/red-rohit01/LeetCode/tree/master/0670-maximum-swap) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/red-rohit01/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -2344,6 +2347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/red-rohit01/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/red-rohit01/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/red-rohit01/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/red-rohit01/LeetCode/tree/master/0486-predict-the-winner) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/red-rohit01/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/red-rohit01/LeetCode/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -2413,6 +2417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/red-rohit01/LeetCode/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/red-rohit01/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Doubly-Linked List
 |  |
