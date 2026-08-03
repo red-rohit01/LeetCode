@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/red-rohit01/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/red-rohit01/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/red-rohit01/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/red-rohit01/LeetCode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1466-jump-game-v](https://github.com/red-rohit01/LeetCode/tree/master/1466-jump-game-v) |
+| [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/red-rohit01/LeetCode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/red-rohit01/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1576,6 +1578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/red-rohit01/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/red-rohit01/LeetCode/tree/master/1500-count-largest-group) |
+| [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/red-rohit01/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/red-rohit01/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/red-rohit01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -2422,6 +2425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/red-rohit01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/red-rohit01/LeetCode/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/red-rohit01/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Doubly-Linked List
 |  |
@@ -2476,4 +2480,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/red-rohit01/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/red-rohit01/LeetCode/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
