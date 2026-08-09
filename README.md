@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-graph-connectivity-with-threshold](https://github.com/red-rohit01/LeetCode/tree/master/1223-graph-connectivity-with-threshold) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/red-rohit01/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1234-number-of-paths-with-max-score](https://github.com/red-rohit01/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
+| [1240-stone-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/red-rohit01/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/red-rohit01/LeetCode/tree/master/1284-four-divisors) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/red-rohit01/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/red-rohit01/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/red-rohit01/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1234-number-of-paths-with-max-score](https://github.com/red-rohit01/LeetCode/tree/master/1234-number-of-paths-with-max-score) |
+| [1240-stone-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/red-rohit01/LeetCode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/red-rohit01/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/red-rohit01/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -1578,6 +1580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/red-rohit01/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/red-rohit01/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1223-graph-connectivity-with-threshold](https://github.com/red-rohit01/LeetCode/tree/master/1223-graph-connectivity-with-threshold) |
+| [1240-stone-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/red-rohit01/LeetCode/tree/master/1284-four-divisors) |
 | [1395-minimum-time-visiting-all-points](https://github.com/red-rohit01/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/red-rohit01/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1835,6 +1838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/red-rohit01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1184-car-pooling](https://github.com/red-rohit01/LeetCode/tree/master/1184-car-pooling) |
+| [1240-stone-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1311-largest-magic-square](https://github.com/red-rohit01/LeetCode/tree/master/1311-largest-magic-square) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/red-rohit01/LeetCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -2441,6 +2445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/red-rohit01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/red-rohit01/LeetCode/tree/master/0909-stone-game) |
+| [1240-stone-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/red-rohit01/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Doubly-Linked List
@@ -2500,9 +2505,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
