@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/red-rohit01/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/red-rohit01/LeetCode/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/red-rohit01/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -1225,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/red-rohit01/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/red-rohit01/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2317-count-collisions-on-a-road](https://github.com/red-rohit01/LeetCode/tree/master/2317-count-collisions-on-a-road) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/red-rohit01/LeetCode/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/red-rohit01/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/red-rohit01/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/red-rohit01/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -2110,6 +2112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1728-fancy-sequence](https://github.com/red-rohit01/LeetCode/tree/master/1728-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/red-rohit01/LeetCode/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/red-rohit01/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3435-block-placement-queries](https://github.com/red-rohit01/LeetCode/tree/master/3435-block-placement-queries) |
@@ -2137,6 +2140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2023-design-movie-rental-system](https://github.com/red-rohit01/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/red-rohit01/LeetCode/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2429-design-a-food-rating-system](https://github.com/red-rohit01/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/red-rohit01/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2868-continuous-subarrays) |
