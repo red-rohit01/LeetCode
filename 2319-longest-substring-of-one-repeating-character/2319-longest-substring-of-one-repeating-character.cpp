@@ -1,5 +1,13 @@
 class Solution {
 private:
+    // For each segment, we store enough information to combine two neighboring segments:
+
+    // the leftmost character,
+    // the rightmost character,
+    // the segment length,
+    // the longest equal-character prefix,
+    // the longest equal-character suffix,
+    // the longest repeating substring inside the segment
     struct Node {char leftChar; char rightChar; int length; int prefix; int suffix; int best;};
 
     vector<Node> tree;
