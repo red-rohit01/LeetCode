@@ -901,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/red-rohit01/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/red-rohit01/LeetCode/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/red-rohit01/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/red-rohit01/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/red-rohit01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/red-rohit01/LeetCode/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/red-rohit01/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -1258,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/red-rohit01/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/red-rohit01/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/red-rohit01/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/red-rohit01/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/red-rohit01/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3376-longest-common-suffix-queries](https://github.com/red-rohit01/LeetCode/tree/master/3376-longest-common-suffix-queries) |
 | [3396-valid-word](https://github.com/red-rohit01/LeetCode/tree/master/3396-valid-word) |
@@ -1545,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/red-rohit01/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/red-rohit01/LeetCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/red-rohit01/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/red-rohit01/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/red-rohit01/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/red-rohit01/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/red-rohit01/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
