@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/red-rohit01/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2145-grid-game](https://github.com/red-rohit01/LeetCode/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/red-rohit01/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/red-rohit01/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/red-rohit01/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/red-rohit01/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/red-rohit01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/red-rohit01/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/red-rohit01/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/red-rohit01/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/red-rohit01/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -1623,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/red-rohit01/LeetCode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/red-rohit01/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/red-rohit01/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/red-rohit01/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/red-rohit01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/red-rohit01/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -2176,6 +2179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/red-rohit01/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/red-rohit01/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/red-rohit01/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/red-rohit01/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/red-rohit01/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/red-rohit01/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -2465,6 +2469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/red-rohit01/LeetCode/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/red-rohit01/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Doubly-Linked List
 |  |
@@ -2526,16 +2531,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/red-rohit01/LeetCode/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/red-rohit01/LeetCode/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/red-rohit01/LeetCode/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
