@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/red-rohit01/LeetCode/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/red-rohit01/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/red-rohit01/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1685-stone-game-v](https://github.com/red-rohit01/LeetCode/tree/master/1685-stone-game-v) |
 | [1694-make-sum-divisible-by-p](https://github.com/red-rohit01/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/red-rohit01/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/red-rohit01/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/red-rohit01/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/red-rohit01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/red-rohit01/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1685-stone-game-v](https://github.com/red-rohit01/LeetCode/tree/master/1685-stone-game-v) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/red-rohit01/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/red-rohit01/LeetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/red-rohit01/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1614,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/red-rohit01/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/red-rohit01/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/red-rohit01/LeetCode/tree/master/1642-water-bottles) |
+| [1685-stone-game-v](https://github.com/red-rohit01/LeetCode/tree/master/1685-stone-game-v) |
 | [1728-fancy-sequence](https://github.com/red-rohit01/LeetCode/tree/master/1728-fancy-sequence) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/red-rohit01/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/red-rohit01/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -2469,6 +2472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/red-rohit01/LeetCode/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/red-rohit01/LeetCode/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/red-rohit01/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Doubly-Linked List
