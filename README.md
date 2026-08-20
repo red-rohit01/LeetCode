@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/red-rohit01/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/red-rohit01/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/red-rohit01/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/red-rohit01/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/red-rohit01/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/red-rohit01/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
@@ -1969,6 +1970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/red-rohit01/LeetCode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/red-rohit01/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/red-rohit01/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/red-rohit01/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/red-rohit01/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/red-rohit01/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
