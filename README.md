@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3351-maximize-happiness-of-selected-children](https://github.com/red-rohit01/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/red-rohit01/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/red-rohit01/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3376-longest-common-suffix-queries](https://github.com/red-rohit01/LeetCode/tree/master/3376-longest-common-suffix-queries) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/red-rohit01/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/red-rohit01/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -1023,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/red-rohit01/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/red-rohit01/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/red-rohit01/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3427-special-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3427-special-array-ii) |
 | [3435-block-placement-queries](https://github.com/red-rohit01/LeetCode/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/red-rohit01/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1512,6 +1514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/red-rohit01/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/red-rohit01/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/red-rohit01/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/red-rohit01/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/red-rohit01/LeetCode/tree/master/3394-minimum-array-end) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/red-rohit01/LeetCode/tree/master/3443-maximum-total-reward-using-operations-ii) |
@@ -1672,6 +1675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/red-rohit01/LeetCode/tree/master/3321-type-of-triangle) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/red-rohit01/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3336-water-bottles-ii](https://github.com/red-rohit01/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/red-rohit01/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3462-vowels-game-in-a-string](https://github.com/red-rohit01/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/red-rohit01/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/red-rohit01/LeetCode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -1734,6 +1738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/red-rohit01/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/red-rohit01/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/3112-count-valid-paths-in-a-tree) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/red-rohit01/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/red-rohit01/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/red-rohit01/LeetCode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/red-rohit01/LeetCode/tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -2416,6 +2421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/red-rohit01/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/red-rohit01/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/red-rohit01/LeetCode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3548-find-the-count-of-good-integers](https://github.com/red-rohit01/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3583-sorted-gcd-pair-queries](https://github.com/red-rohit01/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3637-count-number-of-balanced-permutations](https://github.com/red-rohit01/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
