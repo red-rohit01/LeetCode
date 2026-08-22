@@ -1711,6 +1711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/red-rohit01/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/red-rohit01/LeetCode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/red-rohit01/LeetCode/tree/master/3897-count-number-of-trapezoids-ii) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/red-rohit01/LeetCode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/red-rohit01/LeetCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/red-rohit01/LeetCode/tree/master/3964-number-of-zigzag-arrays-ii) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/red-rohit01/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
