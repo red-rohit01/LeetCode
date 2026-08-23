@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/red-rohit01/LeetCode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/red-rohit01/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/red-rohit01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2039-sum-game](https://github.com/red-rohit01/LeetCode/tree/master/2039-sum-game) |
 | [2089-maximum-matrix-sum](https://github.com/red-rohit01/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/red-rohit01/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
@@ -1225,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/red-rohit01/LeetCode/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/red-rohit01/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/red-rohit01/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2039-sum-game](https://github.com/red-rohit01/LeetCode/tree/master/2039-sum-game) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/red-rohit01/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/red-rohit01/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1635,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/red-rohit01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-count-square-sum-triples](https://github.com/red-rohit01/LeetCode/tree/master/2037-count-square-sum-triples) |
+| [2039-sum-game](https://github.com/red-rohit01/LeetCode/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/red-rohit01/LeetCode/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/red-rohit01/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/red-rohit01/LeetCode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -2488,6 +2491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/red-rohit01/LeetCode/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/red-rohit01/LeetCode/tree/master/1685-stone-game-v) |
+| [2039-sum-game](https://github.com/red-rohit01/LeetCode/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/red-rohit01/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Doubly-Linked List
