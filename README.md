@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/red-rohit01/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/red-rohit01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2002-stone-game-viii](https://github.com/red-rohit01/LeetCode/tree/master/2002-stone-game-viii) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/red-rohit01/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2023-design-movie-rental-system](https://github.com/red-rohit01/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2043-cyclically-rotating-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2043-cyclically-rotating-a-grid) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/red-rohit01/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/red-rohit01/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2001-jump-game-vii](https://github.com/red-rohit01/LeetCode/tree/master/2001-jump-game-vii) |
+| [2002-stone-game-viii](https://github.com/red-rohit01/LeetCode/tree/master/2002-stone-game-viii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/red-rohit01/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/red-rohit01/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/red-rohit01/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1636,6 +1638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-maximum-building-height](https://github.com/red-rohit01/LeetCode/tree/master/1968-maximum-building-height) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/red-rohit01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2002-stone-game-viii](https://github.com/red-rohit01/LeetCode/tree/master/2002-stone-game-viii) |
 | [2037-count-square-sum-triples](https://github.com/red-rohit01/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2039-sum-game](https://github.com/red-rohit01/LeetCode/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/red-rohit01/LeetCode/tree/master/2050-count-good-numbers) |
@@ -1887,6 +1890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/red-rohit01/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2001-jump-game-vii](https://github.com/red-rohit01/LeetCode/tree/master/2001-jump-game-vii) |
+| [2002-stone-game-viii](https://github.com/red-rohit01/LeetCode/tree/master/2002-stone-game-viii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/red-rohit01/LeetCode/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/red-rohit01/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -2491,6 +2495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/red-rohit01/LeetCode/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/red-rohit01/LeetCode/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/red-rohit01/LeetCode/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/red-rohit01/LeetCode/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/red-rohit01/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -2554,6 +2559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/red-rohit01/LeetCode/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/red-rohit01/LeetCode/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -2561,6 +2567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/red-rohit01/LeetCode/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/red-rohit01/LeetCode/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/red-rohit01/LeetCode/tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
