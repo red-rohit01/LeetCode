@@ -801,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/red-rohit01/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/red-rohit01/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/red-rohit01/LeetCode/tree/master/4007-maximum-total-subarray-value-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/red-rohit01/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -960,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3897-count-number-of-trapezoids-ii](https://github.com/red-rohit01/LeetCode/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/red-rohit01/LeetCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3934-coupon-code-validator](https://github.com/red-rohit01/LeetCode/tree/master/3934-coupon-code-validator) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/red-rohit01/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4045-longest-balanced-subarray-i](https://github.com/red-rohit01/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/red-rohit01/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/red-rohit01/LeetCode/tree/master/4055-longest-balanced-substring-i) |
@@ -1320,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-coupon-code-validator](https://github.com/red-rohit01/LeetCode/tree/master/3934-coupon-code-validator) |
 | [3939-process-string-with-special-operations-ii](https://github.com/red-rohit01/LeetCode/tree/master/3939-process-string-with-special-operations-ii) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/red-rohit01/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/red-rohit01/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/red-rohit01/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/red-rohit01/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/red-rohit01/LeetCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -2232,6 +2235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/red-rohit01/LeetCode/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/red-rohit01/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/red-rohit01/LeetCode/tree/master/3885-count-special-triplets) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/red-rohit01/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/red-rohit01/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/red-rohit01/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Binary Tree
@@ -2293,6 +2297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/red-rohit01/LeetCode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/red-rohit01/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/red-rohit01/LeetCode/tree/master/3850-equal-sum-grid-partition-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/red-rohit01/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4055-longest-balanced-substring-i](https://github.com/red-rohit01/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/red-rohit01/LeetCode/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
