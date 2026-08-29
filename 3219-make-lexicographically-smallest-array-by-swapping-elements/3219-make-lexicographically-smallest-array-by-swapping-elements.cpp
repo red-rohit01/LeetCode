@@ -1,6 +1,6 @@
 class Solution {
 public:
-//     The key insight is that:
+// The key insight is that:
 // Sorting the array by values ensures we have the lexicographical order.
 // By grouping elements based on the maxDifference constraint, we can limit swaps to valid elements.
 // Extracting elements in the order of their indices while respecting group priorities guarantees the smallest lexicographical result.
