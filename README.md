@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/red-rohit01/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4216-weighted-word-mapping](https://github.com/red-rohit01/LeetCode/tree/master/4216-weighted-word-mapping) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/red-rohit01/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1744,6 +1745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/red-rohit01/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/red-rohit01/LeetCode/tree/master/4168-mirror-distance-of-an-integer) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/red-rohit01/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Number Theory
 |  |
 | ------- |
