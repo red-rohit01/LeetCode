@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/red-rohit01/LeetCode/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/red-rohit01/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0977-distinct-subsequences-ii](https://github.com/red-rohit01/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/red-rohit01/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/red-rohit01/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/red-rohit01/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -1203,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/red-rohit01/LeetCode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/red-rohit01/LeetCode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/red-rohit01/LeetCode/tree/master/0952-word-subsets) |
+| [0977-distinct-subsequences-ii](https://github.com/red-rohit01/LeetCode/tree/master/0977-distinct-subsequences-ii) |
 | [0981-delete-columns-to-make-sorted](https://github.com/red-rohit01/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/red-rohit01/LeetCode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/red-rohit01/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
