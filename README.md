@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/red-rohit01/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3795-zero-array-transformation-iv](https://github.com/red-rohit01/LeetCode/tree/master/3795-zero-array-transformation-iv) |
 | [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3799-unique-3-digit-even-numbers](https://github.com/red-rohit01/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/red-rohit01/LeetCode/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3819-count-covered-buildings](https://github.com/red-rohit01/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/red-rohit01/LeetCode/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/red-rohit01/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/red-rohit01/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3799-unique-3-digit-even-numbers](https://github.com/red-rohit01/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/red-rohit01/LeetCode/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3819-count-covered-buildings](https://github.com/red-rohit01/LeetCode/tree/master/3819-count-covered-buildings) |
 | [3827-implement-router](https://github.com/red-rohit01/LeetCode/tree/master/3827-implement-router) |
@@ -2315,6 +2317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/red-rohit01/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/red-rohit01/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/red-rohit01/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3799-unique-3-digit-even-numbers](https://github.com/red-rohit01/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/red-rohit01/LeetCode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/red-rohit01/LeetCode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/red-rohit01/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
@@ -2454,6 +2457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/red-rohit01/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/red-rohit01/LeetCode/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/red-rohit01/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/red-rohit01/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Combinatorics
 |  |
 | ------- |
