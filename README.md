@@ -1635,6 +1635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-rotated-digits](https://github.com/red-rohit01/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/red-rohit01/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/red-rohit01/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0866-rectangle-overlap](https://github.com/red-rohit01/LeetCode/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/red-rohit01/LeetCode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/red-rohit01/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/red-rohit01/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -2522,6 +2523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/red-rohit01/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0866-rectangle-overlap](https://github.com/red-rohit01/LeetCode/tree/master/0866-rectangle-overlap) |
 | [1395-minimum-time-visiting-all-points](https://github.com/red-rohit01/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/red-rohit01/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/red-rohit01/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
