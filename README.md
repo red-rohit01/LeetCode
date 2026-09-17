@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/red-rohit01/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/red-rohit01/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/red-rohit01/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/red-rohit01/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/red-rohit01/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/red-rohit01/LeetCode/tree/master/1522-stone-game-iii) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/red-rohit01/LeetCode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/red-rohit01/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/red-rohit01/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1617-stone-game-iv](https://github.com/red-rohit01/LeetCode/tree/master/1617-stone-game-iv) |
 | [1628-count-submatrices-with-all-ones](https://github.com/red-rohit01/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/red-rohit01/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/red-rohit01/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/red-rohit01/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/red-rohit01/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1694-make-sum-divisible-by-p](https://github.com/red-rohit01/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/red-rohit01/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -1011,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/red-rohit01/LeetCode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/red-rohit01/LeetCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/red-rohit01/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/red-rohit01/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/red-rohit01/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/red-rohit01/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/red-rohit01/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1576,6 +1580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/red-rohit01/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/red-rohit01/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/red-rohit01/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/red-rohit01/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/red-rohit01/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/red-rohit01/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/red-rohit01/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
