@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/red-rohit01/LeetCode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/red-rohit01/LeetCode/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3827-implement-router](https://github.com/red-rohit01/LeetCode/tree/master/3827-implement-router) |
+| [3831-find-x-value-of-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3831-find-x-value-of-array-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/red-rohit01/LeetCode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/red-rohit01/LeetCode/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/red-rohit01/LeetCode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/red-rohit01/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/red-rohit01/LeetCode/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3795-zero-array-transformation-iv](https://github.com/red-rohit01/LeetCode/tree/master/3795-zero-array-transformation-iv) |
+| [3831-find-x-value-of-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3831-find-x-value-of-array-i) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/red-rohit01/LeetCode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/red-rohit01/LeetCode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/red-rohit01/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1757,6 +1759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/red-rohit01/LeetCode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/red-rohit01/LeetCode/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3830-find-closest-person](https://github.com/red-rohit01/LeetCode/tree/master/3830-find-closest-person) |
+| [3831-find-x-value-of-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3831-find-x-value-of-array-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/red-rohit01/LeetCode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/red-rohit01/LeetCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/red-rohit01/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
