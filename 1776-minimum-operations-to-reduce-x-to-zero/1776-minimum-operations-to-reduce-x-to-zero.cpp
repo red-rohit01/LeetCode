@@ -2,13 +2,14 @@ class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
         int n=nums.size();
-        int sum=-x;
+        int sum=0;
         for(auto &x:nums) sum+=x;
+        sum-=x;      // Remaining elements sum
         if(sum<0) return -1;
 
         int i=0;
         int curr=0;
-        int ans=INT_MIN;
+        int rem=INT_MIN;
         int j=0;
         while(j<n)
         {
@@ -18,9 +19,9 @@ public:
                 curr-=nums[i];
                 i++;
             }
-            if(curr==sum) ans=max(ans,j-i+1);
+            if(curr==sum) rem=max(rem,j-i+1);
             j++;
         }
-        return ans==INT_MIN?-1:(n-ans);
+        return rem==INT_MIN?-1:(n-rem);
     }
 };
