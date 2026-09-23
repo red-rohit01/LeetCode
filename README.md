@@ -2606,6 +2606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/red-rohit01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/red-rohit01/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/red-rohit01/LeetCode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
