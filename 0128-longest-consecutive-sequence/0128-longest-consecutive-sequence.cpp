@@ -13,8 +13,7 @@ public:
     See if n - 1 and n + 1 exist in the map, and if so, it means there is an existing sequence next to n. Variables left and right will 
     be the length of those two sequences, while 0 means there is no sequence and n will be the boundary point later. Store (left + right + 1)
     as the associated value to key n into the map.
-    Use left and right to locate the other end of the sequences to the left and right of n respectively, and replace the value with the new 
-    length.
+    Use left and right to locate the other end of the sequences to the left and right of n respectively, and replace the value with the new length.
     Everything inside the for loop is O(1) so the total time is O(n).
     */
     int longestConsecutive(vector<int>& nums) {
