@@ -1259,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/red-rohit01/LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/red-rohit01/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/red-rohit01/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/red-rohit01/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/red-rohit01/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/red-rohit01/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -1837,6 +1838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/red-rohit01/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/red-rohit01/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/red-rohit01/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/red-rohit01/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/red-rohit01/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/red-rohit01/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -2669,4 +2671,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
