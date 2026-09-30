@@ -1243,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/red-rohit01/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/red-rohit01/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1188-brace-expansion-ii](https://github.com/red-rohit01/LeetCode/tree/master/1188-brace-expansion-ii) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/red-rohit01/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/red-rohit01/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/red-rohit01/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1836,6 +1837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/red-rohit01/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1188-brace-expansion-ii](https://github.com/red-rohit01/LeetCode/tree/master/1188-brace-expansion-ii) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/red-rohit01/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/red-rohit01/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/red-rohit01/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -2673,6 +2675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/red-rohit01/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/red-rohit01/LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
