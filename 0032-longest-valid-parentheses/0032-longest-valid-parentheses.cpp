@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestValidParentheses(string s) {
-        stack<int>st;
+        stack<int>st;   // Stores the last index post which paranthesis are balanced
         int n=s.size();
         st.push(-1);
         int mx=0;
