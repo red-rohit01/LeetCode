@@ -1246,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/red-rohit01/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/red-rohit01/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/red-rohit01/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1078-remove-outermost-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/red-rohit01/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1160-letter-tile-possibilities](https://github.com/red-rohit01/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/red-rohit01/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -1846,6 +1847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/red-rohit01/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/red-rohit01/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/red-rohit01/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/red-rohit01/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1188-brace-expansion-ii](https://github.com/red-rohit01/LeetCode/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/red-rohit01/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -2692,6 +2694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/red-rohit01/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/red-rohit01/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/red-rohit01/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/red-rohit01/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
