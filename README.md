@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/red-rohit01/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/red-rohit01/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/red-rohit01/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/red-rohit01/LeetCode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/red-rohit01/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/red-rohit01/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/red-rohit01/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -810,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/red-rohit01/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/red-rohit01/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/red-rohit01/LeetCode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/red-rohit01/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/red-rohit01/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/red-rohit01/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/red-rohit01/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/red-rohit01/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/red-rohit01/LeetCode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/red-rohit01/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/red-rohit01/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/red-rohit01/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1588,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/red-rohit01/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/red-rohit01/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/red-rohit01/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/red-rohit01/LeetCode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3179-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/red-rohit01/LeetCode/tree/master/3179-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/red-rohit01/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/red-rohit01/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
