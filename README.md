@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4047-longest-balanced-subarray-ii](https://github.com/red-rohit01/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/red-rohit01/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/red-rohit01/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/red-rohit01/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/red-rohit01/LeetCode/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/red-rohit01/LeetCode/tree/master/4107-find-missing-elements) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/red-rohit01/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4005-maximum-total-subarray-value-i](https://github.com/red-rohit01/LeetCode/tree/master/4005-maximum-total-subarray-value-i) |
 | [4007-maximum-total-subarray-value-ii](https://github.com/red-rohit01/LeetCode/tree/master/4007-maximum-total-subarray-value-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/red-rohit01/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/red-rohit01/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -1213,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/red-rohit01/LeetCode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/red-rohit01/LeetCode/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/red-rohit01/LeetCode/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/red-rohit01/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](https://github.com/red-rohit01/LeetCode/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/red-rohit01/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## String
