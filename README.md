@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/red-rohit01/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3031-construct-product-matrix](https://github.com/red-rohit01/LeetCode/tree/master/3031-construct-product-matrix) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/red-rohit01/LeetCode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/red-rohit01/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/red-rohit01/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/red-rohit01/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/red-rohit01/LeetCode/tree/master/2892-check-if-array-is-good) |
 | [2915-count-of-interesting-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/red-rohit01/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/red-rohit01/LeetCode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3141-minimum-size-subarray-in-infinite-array](https://github.com/red-rohit01/LeetCode/tree/master/3141-minimum-size-subarray-in-infinite-array) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/red-rohit01/LeetCode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/red-rohit01/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -2249,6 +2251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/red-rohit01/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2280-count-good-triplets-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/red-rohit01/LeetCode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/red-rohit01/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3435-block-placement-queries](https://github.com/red-rohit01/LeetCode/tree/master/3435-block-placement-queries) |
 ## Segment Tree
@@ -2258,6 +2261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1728-fancy-sequence](https://github.com/red-rohit01/LeetCode/tree/master/1728-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2319-longest-substring-of-one-repeating-character](https://github.com/red-rohit01/LeetCode/tree/master/2319-longest-substring-of-one-repeating-character) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/red-rohit01/LeetCode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/red-rohit01/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/red-rohit01/LeetCode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3435-block-placement-queries](https://github.com/red-rohit01/LeetCode/tree/master/3435-block-placement-queries) |
