@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/red-rohit01/LeetCode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/red-rohit01/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/red-rohit01/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/red-rohit01/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/red-rohit01/LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/red-rohit01/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/red-rohit01/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1061,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/red-rohit01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/red-rohit01/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/red-rohit01/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/red-rohit01/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/red-rohit01/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/red-rohit01/LeetCode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2280-count-good-triplets-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1159,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/red-rohit01/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/red-rohit01/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/red-rohit01/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/red-rohit01/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2213-find-all-people-with-secret](https://github.com/red-rohit01/LeetCode/tree/master/2213-find-all-people-with-secret) |
 | [2215-finding-3-digit-even-numbers](https://github.com/red-rohit01/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/red-rohit01/LeetCode/tree/master/2245-destroying-asteroids) |
