@@ -1410,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4056-longest-balanced-substring-ii](https://github.com/red-rohit01/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/red-rohit01/LeetCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4216-weighted-word-mapping](https://github.com/red-rohit01/LeetCode/tree/master/4216-weighted-word-mapping) |
+| [4220-minimum-operations-to-sort-a-string](https://github.com/red-rohit01/LeetCode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Tree
 |  |
 | ------- |
