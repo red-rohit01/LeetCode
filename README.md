@@ -1338,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/red-rohit01/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/red-rohit01/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/red-rohit01/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2496-count-days-spent-together](https://github.com/red-rohit01/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/red-rohit01/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/red-rohit01/LeetCode/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/red-rohit01/LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1761,6 +1762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/red-rohit01/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/red-rohit01/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2496-count-days-spent-together](https://github.com/red-rohit01/LeetCode/tree/master/2496-count-days-spent-together) |
 | [2531-create-components-with-same-value](https://github.com/red-rohit01/LeetCode/tree/master/2531-create-components-with-same-value) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/red-rohit01/LeetCode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/red-rohit01/LeetCode/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
