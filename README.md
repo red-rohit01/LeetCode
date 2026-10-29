@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/red-rohit01/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4184-minimum-operations-to-sort-a-permutation](https://github.com/red-rohit01/LeetCode/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4216-weighted-word-mapping](https://github.com/red-rohit01/LeetCode/tree/master/4216-weighted-word-mapping) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/red-rohit01/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4257-sum-of-sortable-integers](https://github.com/red-rohit01/LeetCode/tree/master/4257-sum-of-sortable-integers) |
@@ -1419,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4055-longest-balanced-substring-i](https://github.com/red-rohit01/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/red-rohit01/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/red-rohit01/LeetCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 | [4216-weighted-word-mapping](https://github.com/red-rohit01/LeetCode/tree/master/4216-weighted-word-mapping) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/red-rohit01/LeetCode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Tree
@@ -1463,6 +1465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/red-rohit01/LeetCode/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/red-rohit01/LeetCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/red-rohit01/LeetCode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1524,6 +1527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/red-rohit01/LeetCode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/red-rohit01/LeetCode/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/red-rohit01/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1645,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/red-rohit01/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/red-rohit01/LeetCode/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -2278,6 +2283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4047-longest-balanced-subarray-ii](https://github.com/red-rohit01/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/red-rohit01/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/red-rohit01/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -2286,6 +2292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/red-rohit01/LeetCode/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/red-rohit01/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3435-block-placement-queries](https://github.com/red-rohit01/LeetCode/tree/master/3435-block-placement-queries) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -2308,6 +2315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4047-longest-balanced-subarray-ii](https://github.com/red-rohit01/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/red-rohit01/LeetCode/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/red-rohit01/LeetCode/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4209-palindromic-path-queries-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/4209-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
