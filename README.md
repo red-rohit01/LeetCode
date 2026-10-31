@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3919-network-recovery-pathways](https://github.com/red-rohit01/LeetCode/tree/master/3919-network-recovery-pathways) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/red-rohit01/LeetCode/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3934-coupon-code-validator](https://github.com/red-rohit01/LeetCode/tree/master/3934-coupon-code-validator) |
+| [3938-twisted-mirror-path-count](https://github.com/red-rohit01/LeetCode/tree/master/3938-twisted-mirror-path-count) |
 | [3950-maximum-k-to-sort-a-permutation](https://github.com/red-rohit01/LeetCode/tree/master/3950-maximum-k-to-sort-a-permutation) |
 | [3952-trionic-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3956-trionic-array-ii) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-minimum-cost-path-with-teleportations](https://github.com/red-rohit01/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/red-rohit01/LeetCode/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3919-network-recovery-pathways](https://github.com/red-rohit01/LeetCode/tree/master/3919-network-recovery-pathways) |
+| [3938-twisted-mirror-path-count](https://github.com/red-rohit01/LeetCode/tree/master/3938-twisted-mirror-path-count) |
 | [3956-trionic-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3956-trionic-array-ii) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/red-rohit01/LeetCode/tree/master/3962-number-of-zigzag-arrays-i) |
 | [3964-number-of-zigzag-arrays-ii](https://github.com/red-rohit01/LeetCode/tree/master/3964-number-of-zigzag-arrays-ii) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/red-rohit01/LeetCode/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/red-rohit01/LeetCode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/red-rohit01/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
+| [3938-twisted-mirror-path-count](https://github.com/red-rohit01/LeetCode/tree/master/3938-twisted-mirror-path-count) |
 | [3973-flip-square-submatrix-vertically](https://github.com/red-rohit01/LeetCode/tree/master/3973-flip-square-submatrix-vertically) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/3986-maximum-path-score-in-a-grid) |
 | [4205-minimum-xor-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/4205-minimum-xor-path-in-a-grid) |
