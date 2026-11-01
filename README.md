@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/red-rohit01/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/red-rohit01/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/red-rohit01/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/red-rohit01/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/red-rohit01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/red-rohit01/LeetCode/tree/master/0494-target-sum) |
@@ -1719,6 +1720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/red-rohit01/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/red-rohit01/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/red-rohit01/LeetCode/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/red-rohit01/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/red-rohit01/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/red-rohit01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/red-rohit01/LeetCode/tree/master/0670-maximum-swap) |
