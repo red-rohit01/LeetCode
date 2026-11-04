@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-count-special-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/3699-count-special-subsequences) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/red-rohit01/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/red-rohit01/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/red-rohit01/LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3721-count-mentions-per-user](https://github.com/red-rohit01/LeetCode/tree/master/3721-count-mentions-per-user) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/red-rohit01/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/red-rohit01/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3675-maximize-sum-of-weights-after-edge-removals](https://github.com/red-rohit01/LeetCode/tree/master/3675-maximize-sum-of-weights-after-edge-removals) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/red-rohit01/LeetCode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3686-count-beautiful-splits-in-an-array](https://github.com/red-rohit01/LeetCode/tree/master/3686-count-beautiful-splits-in-an-array) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/red-rohit01/LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/red-rohit01/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/red-rohit01/LeetCode/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3795-zero-array-transformation-iv](https://github.com/red-rohit01/LeetCode/tree/master/3795-zero-array-transformation-iv) |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/red-rohit01/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3699-count-special-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/3699-count-special-subsequences) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/red-rohit01/LeetCode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/red-rohit01/LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3750-closest-equal-element-queries](https://github.com/red-rohit01/LeetCode/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/red-rohit01/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/red-rohit01/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1704,6 +1707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/red-rohit01/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/red-rohit01/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/red-rohit01/LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/red-rohit01/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/red-rohit01/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/red-rohit01/LeetCode/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
@@ -1833,6 +1837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/red-rohit01/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3699-count-special-subsequences](https://github.com/red-rohit01/LeetCode/tree/master/3699-count-special-subsequences) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/red-rohit01/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/red-rohit01/LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3721-count-mentions-per-user](https://github.com/red-rohit01/LeetCode/tree/master/3721-count-mentions-per-user) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/red-rohit01/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/red-rohit01/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -2020,6 +2025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/red-rohit01/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/red-rohit01/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/red-rohit01/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/red-rohit01/LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/red-rohit01/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/red-rohit01/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3863-power-grid-maintenance](https://github.com/red-rohit01/LeetCode/tree/master/3863-power-grid-maintenance) |
