@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/red-rohit01/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2002-stone-game-viii](https://github.com/red-rohit01/LeetCode/tree/master/2002-stone-game-viii) |
+| [2012-process-tasks-using-servers](https://github.com/red-rohit01/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/red-rohit01/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2023-design-movie-rental-system](https://github.com/red-rohit01/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2043-cyclically-rotating-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2043-cyclically-rotating-a-grid) |
@@ -2001,6 +2002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/red-rohit01/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/red-rohit01/LeetCode/tree/master/1962-single-threaded-cpu) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2012-process-tasks-using-servers](https://github.com/red-rohit01/LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2023-design-movie-rental-system](https://github.com/red-rohit01/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2164-two-best-non-overlapping-events](https://github.com/red-rohit01/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/red-rohit01/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
