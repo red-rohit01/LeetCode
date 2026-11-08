@@ -2742,6 +2742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/red-rohit01/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1380-number-of-closed-islands](https://github.com/red-rohit01/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/red-rohit01/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/red-rohit01/LeetCode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/red-rohit01/LeetCode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
