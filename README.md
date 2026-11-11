@@ -869,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/red-rohit01/LeetCode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/red-rohit01/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/red-rohit01/LeetCode/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/red-rohit01/LeetCode/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Hash Table
 |  |
 | ------- |
@@ -1880,6 +1881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/red-rohit01/LeetCode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/red-rohit01/LeetCode/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/red-rohit01/LeetCode/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/red-rohit01/LeetCode/tree/master/4147-minimum-cost-to-acquire-required-items) |
 | [4168-mirror-distance-of-an-integer](https://github.com/red-rohit01/LeetCode/tree/master/4168-mirror-distance-of-an-integer) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/red-rohit01/LeetCode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4245-count-commas-in-range](https://github.com/red-rohit01/LeetCode/tree/master/4245-count-commas-in-range) |
