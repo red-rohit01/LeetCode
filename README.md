@@ -614,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/red-rohit01/LeetCode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/red-rohit01/LeetCode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/red-rohit01/LeetCode/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/red-rohit01/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/red-rohit01/LeetCode/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/red-rohit01/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1375,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/red-rohit01/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/red-rohit01/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2708-find-the-string-with-lcp](https://github.com/red-rohit01/LeetCode/tree/master/2708-find-the-string-with-lcp) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/red-rohit01/LeetCode/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [2887-sort-vowels-in-a-string](https://github.com/red-rohit01/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/red-rohit01/LeetCode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/red-rohit01/LeetCode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -1588,6 +1590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/red-rohit01/LeetCode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/red-rohit01/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/red-rohit01/LeetCode/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/red-rohit01/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/red-rohit01/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/red-rohit01/LeetCode/tree/master/3487-find-maximum-removals-from-source-string) |
