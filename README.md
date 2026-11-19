@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/red-rohit01/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/red-rohit01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/red-rohit01/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/red-rohit01/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2708-find-the-string-with-lcp](https://github.com/red-rohit01/LeetCode/tree/master/2708-find-the-string-with-lcp) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/red-rohit01/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -836,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/red-rohit01/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/red-rohit01/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/red-rohit01/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/red-rohit01/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2708-find-the-string-with-lcp](https://github.com/red-rohit01/LeetCode/tree/master/2708-find-the-string-with-lcp) |
 | [2716-prime-subtraction-operation](https://github.com/red-rohit01/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -1215,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/red-rohit01/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/red-rohit01/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/red-rohit01/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/red-rohit01/LeetCode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2833-count-zero-request-servers](https://github.com/red-rohit01/LeetCode/tree/master/2833-count-zero-request-servers) |
 | [2846-robot-collisions](https://github.com/red-rohit01/LeetCode/tree/master/2846-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/red-rohit01/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
